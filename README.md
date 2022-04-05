@@ -14,4 +14,4 @@ networkx (https://github.com/networkx/networkx)
 graphviz (https://gitlab.com/graphviz/graphviz)
 
 # 참고
-현재 아이디어은 성소정, 최소원로부터 시작되었습니다. 
+현재 아이디어는 성소정, 최소원로부터 시작되었습니다. 
