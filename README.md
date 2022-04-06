@@ -7,6 +7,9 @@
 # 현재 단계 및 향후 방향
 웹툰 미디어 믹스의 대략적인 구조 설계가 되어있으나, 이것은 어떠한 특정 프로그래밍 언어로 표현되지 않았기 때문에 프로그램적으로 사용하기가 어려움. 주어진 자료를 Human- and machine- readable 하며 공유가능한 포맷으로 변환하는 작업을 수행. 
 
+# 메타데이터를 활용한 통합검색시스템의 설계 및 구현
+http://www.riss.kr/search/download/FullTextDownload.do?control_no=9bccd12eb7e916abffe0bdc3ef48d419&p_mat_type=be54d9b8bc7cdb09&p_submat_type=f1a8c7a1de0e08b8&fulltext_kind=dbbea9ba84e4b1bc&t_gubun=&convertFlag=&naverYN=&outLink=&nationalLibraryLocalBibno=&searchGubun=true&colName=bib_t&DDODFlag=&loginFlag=1&url_type=&query=%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0&content_page=
+
 # 사용 도구
 RDFLib을 사용하여 개념/인스턴스/관계를 모델링하고, networkx/graphviz 등을 이용하여 모델된 데이터를 시각화한다.
 rdflib (https://github.com/RDFLib)
