@@ -15,7 +15,7 @@
 웹툰 미디어 믹스의 대략적인 구조 설계가 되어있으나, 이것은 어떠한 특정 프로그래밍 언어로 표현되지 않았기 때문에 프로그램적으로 사용하기가 어려움. 주어진 자료를 Human- and machine- readable 하며 공유가능한 포맷으로 변환하는 작업을 수행. 
 
 # 사용 도구
-RDFLib을 사용하여 개념/인스턴스/관계를 모델링하고, networkx/graphviz 등을 이용하여 모델된 데이터를 시각화한다.
+RDFLib을 사용하여 개념/인스턴스/관계를 모델링하고(이 부분이 잘 이해가 되지 않습니다. , networkx/graphviz 등을 이용하여 모델된 데이터를 시각화한다.
 rdflib (https://github.com/RDFLib)
 networkx (https://github.com/networkx/networkx)
 graphviz (https://gitlab.com/graphviz/graphviz)
