@@ -16,22 +16,6 @@ rdflib (https://github.com/RDFLib)
 networkx (https://github.com/networkx/networkx)
 graphviz (https://gitlab.com/graphviz/graphviz)
 
-
-
 # 참고
 현재 아이디어는 성소정, 최소원으로부터 시작되었습니다. 
-
-# 참고자료
-- 홍익대학교 웹툰캐릭터의 미디어믹스전략에 관한 연구 논문= (A) study on the media mix of web-toon character
-
-- 저자 : 한아린
-
-- 발행사항
-서울 : 홍익대학교 대학원, 2006
-
-- 학위논문사항
-학위논문(석사)-- 홍익대학교 대학원 : 시각디자인과 2006.2
-(http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=f6c6137ed82e927effe0bdc3ef48d419&keyword=%EB%AF%B8%EB%94%94%EC%96%B4%EB%AF%B9%EC%8A%A4) 
-- 미디어 믹스의 정의와 여러 캐릭터의 특징을 통해 시장에 진출했던 미디어 믹스적 여러 사례들이 잘 나와있어 미디어 믹스에 관련된 자료조사에 용이.
-
 
