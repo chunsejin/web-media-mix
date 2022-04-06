@@ -1,14 +1,15 @@
-# web-media-mix metadata 개발
-웹툰, 웹소설, 웹드라마 등 웹 기반 컨텐츠의 시장이 전세계적으로 증가하고 있다. 그럼에도 불구하고, 이들을 효과적으로 검색/질의/구독하기 위한 정보 데이터 모델은 부재하다. 물론, 각각의 컨텐츠를 위한 정보모델은 기존에도 존재하였다, 예를들면, Comic Book ontology는 만화책을 위한 정보모델을 제공한다. 하지만, 기존의 컨텐츠들이 다른 영역으로 활발하게 재창조되면서 그들의 관계 및 필요한 속성에 대한 정보는 공유/개방가능한 형태로 모델링 되지 않았다. 예로, 드라마의 웹툰화는 드라마의 기본적인 스토리와 관련된 요소(인물, 배경)을 따르지만, 웹툰의 제약적인 조건(프레임, 말풍선 등) 따를 것을요구한다.
-
-# 미디어 믹스란?
-웹툰을 포함한 웹 드라마, 웹소설 등 웹에서 일어나는 문화적인 컨텐츠 모두를 일컫는 용어. 미디어 믹스 메타데이터는 웹툰, 웹드라마, 웹소설 등의 인스턴스 뿐만아니라 개념적인 관계등을 구성하고자 함.
+# 메타 데이터란?
+문자적 의미로는 데이터에 대한 데이터(data about data)라고 정의되나 일반적으로 다양한 업무를 지원하기 위하여 사용되는 정보자원에 대한 구조화된 데이터를 의미하는 것으로 해석된다.
 
 # 현재 단계 및 향후 방향
-웹툰 미디어 믹스의 대략적인 구조 설계가 되어있으나, 이것은 어떠한 특정 프로그래밍 언어로 표현되지 않았기 때문에 프로그램적으로 사용하기가 어려움. 주어진 자료를 Human- and machine- readable 하며 공유가능한 포맷으로 변환하는 작업을 수행. 
+메타 데이터를 활용한 통합
 
-# 메타데이터를 활용한 통합검색시스템의 설계 및 구현
-http://www.riss.kr/search/download/FullTextDownload.do?control_no=9bccd12eb7e916abffe0bdc3ef48d419&p_mat_type=be54d9b8bc7cdb09&p_submat_type=f1a8c7a1de0e08b8&fulltext_kind=dbbea9ba84e4b1bc&t_gubun=&convertFlag=&naverYN=&outLink=&nationalLibraryLocalBibno=&searchGubun=true&colName=bib_t&DDODFlag=&loginFlag=1&url_type=&query=%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0&content_page=
+
+
+
+
+
+
 
 # 사용 도구
 RDFLib을 사용하여 개념/인스턴스/관계를 모델링하고, networkx/graphviz 등을 이용하여 모델된 데이터를 시각화한다.
