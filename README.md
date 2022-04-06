@@ -15,4 +15,5 @@ graphviz (https://gitlab.com/graphviz/graphviz)
 
 # 참고
 현재 아이디어은 성소정, 최소원로부터 시작되었습니다.
+
 미디어믹스를 활용한 웹툰 캐릭터 마케팅 (https://www.koreascience.or.kr/article/JAKO201029848353485.pdf)
