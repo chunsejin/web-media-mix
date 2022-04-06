@@ -19,3 +19,5 @@ graphviz (https://gitlab.com/graphviz/graphviz)
 # MINJU_Branch Start
 미디어믹스 프로젝트 시작. 팀은 3인으로 구성되어있다.
 
+# 프로젝트의 목표
+웹툰, 웹소설을 기반으로 하여 드라마화가 된 작품의 데이터를 분석할 예정이다. 
