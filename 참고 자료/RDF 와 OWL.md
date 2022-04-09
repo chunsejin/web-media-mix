@@ -21,5 +21,6 @@ RDF를 사용하면 오직 목적어만 표현가능하고 RDFS는 클래스를 
 하나 하나의 매우 좁은 의미의 Triples를 짤려면 다른 vocabulary가 필요함. OWL이 그런 일을 한다.
 사람의 나이에 양수만 들어가게 하는 기능도 수행 가능
 
-출처
+자료 출처
+
 https://stackoverflow.com/questions/1740341/what-is-the-difference-between-rdf-and-owl
