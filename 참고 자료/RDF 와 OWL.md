@@ -10,7 +10,8 @@ Literal는 Type을 가질 수 있음. Triple의 장점은 여러 URI 소스들�
 ### RDF(Resource Descripion Framework) 
 triple을 정의하는 방법이다. <'subject' 'predicate' 'object'>
 rdf:type을 통해 무슨 역할인지 정의 가능 
-ex) :Tolkin :wrote :LordOfTheRings 같은 Linked Graph가 쌓이고 쌓여 방대한 지식 그래프를 구축할 수 있다.
+ex) :Tolkin :wrote :LordOfTheRings 같은 Linked Graph가 쌓이고 쌓여 방대한 지식 그래프를 구축할 수 있다
+상이한 메타 데이터간의 효율적인 자원 교환도 가능하게 해준다.
 
 ### rdfs(RDF Schema) 
 주어 동사 목적어를 대표하는 클래스 또는 관계 정의 가능.
