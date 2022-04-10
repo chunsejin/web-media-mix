@@ -10,7 +10,7 @@ Literal는 Type을 가질 수 있음. Triple의 장점은 여러 URI 소스들�
 ### RDF(Resource Descripion Framework) 
 웹상의 자원 정보를 표현하기 위한 규격이다. 상이한 메타 데이터간의 효율적인 자원 교환을 가능하게 해준다.
 RDF는 triple을 정의하는 방법이다. 'subject' 'predicate' 'object'
-rdf:type을 통해 무슨 역할인지 정의 가능? 
+rdf:type은 클래스의 인스턴스를 설명하는 속성이다.
 
 ex) :Tolkin :wrote :LordOfTheRings 같은 Linked Graph가 쌓이고 쌓여 방대한 지식 그래프를 구축할 수 있다.
 
@@ -30,3 +30,5 @@ RDF -> RDFS -> OWL -> MyWebApp
 
 자료 출처
 https://stackoverflow.com/questions/1740341/what-is-the-difference-between-rdf-and-owl
+
+**제가 자료 조사를 통해 정리한 내용입니다. 부족하지만 도움이 되었으면 좋겠습니다.**
