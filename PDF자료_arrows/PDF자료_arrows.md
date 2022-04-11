@@ -49,3 +49,20 @@ https://drive.google.com/file/d/1QCIf5mOmb5ght2I1AcMbvGBh2-UyjzKA/view?usp=shari
 
 </div>
 </details>
+
+
+<details>
+<summary>웹툰 -> 굿즈</summary>
+<div markdown="1">       
+웹툰 - 굿즈 txt파일 다운
+[Webtoon-goods.txt](https://github.com/chunsejin/web-media-mix/files/8465448/Webtoon-goods.txt)
+
+웹툰 - 굿즈 arrows.app 공유
+  https://drive.google.com/file/d/1jfwlCAGJRFOEPJF3YOAhzh6wE-1V0eX4/view?usp=sharing
+  
+  
+![미디어 믹스(웹툰_굿즈)]![다운로드 (1)](https://user-images.githubusercontent.com/100738479/162774628-58f96740-5097-4771-aeac-7b5739ce1829.png)
+
+</div>
+</details>
+
