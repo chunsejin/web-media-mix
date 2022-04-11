@@ -58,7 +58,7 @@ https://drive.google.com/file/d/1QCIf5mOmb5ght2I1AcMbvGBh2-UyjzKA/view?usp=shari
 [Webtoon-goods.txt](https://github.com/chunsejin/web-media-mix/files/8465448/Webtoon-goods.txt)
 
 웹툰 - 굿즈 arrows.app 공유
-  https://drive.google.com/file/d/1jfwlCAGJRFOEPJF3YOAhzh6wE-1V0eX4/view?usp=sharing
+  https://drive.google.com/file/d/1jfwlCAGJRFOEPJF3YOAhzh6wE-1V0eX4/view?usp=sharing 
   
   
 ![미디어 믹스(웹툰_굿즈)](https://user-images.githubusercontent.com/100738479/162776414-1ebf34d7-8f14-414a-aa90-1581c2065045.png)
