@@ -34,3 +34,18 @@ https://drive.google.com/file/d/1I7F1KFeB_4R-DS4CBcTkh6Gxv_x4GwJy/view?usp=shari
 
 </div>
 </details>
+
+<details>
+<summary>웹툰 -> 게임</summary>
+<div markdown="1">       
+웹툰 - 게임 txt파일 다운
+[Webtoon-Game.txt](https://github.com/chunsejin/web-media-mix/files/8465398/Webtoon-Game.txt)
+
+웹툰 - 게임 arrows.app 공유
+https://drive.google.com/file/d/1QCIf5mOmb5ght2I1AcMbvGBh2-UyjzKA/view?usp=sharing
+  
+  
+![미디어 믹스(웹툰_게임)](https://user-images.githubusercontent.com/100738390/162772350-a7f61ed0-3f1d-4b5d-aa2d-2e2a3cc1c97c.png)
+
+</div>
+</details>
