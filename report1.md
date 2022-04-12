@@ -5,6 +5,8 @@
 미디어믹스라는 단어는 현재 마케팅에서 주로 사용하고 있는 용어
 일각에서는 미디어 산업에서 특정 지적재산권을 소설,영화,만화,게임,캐릭터 제품 등 여러 매체(미디어)로 출시하는 것을 말하는 재플리시라고도 함 
 ### 3. 팀원과 web-media-mix metadata 개념 토의
+### 4. 실질적인 공부시작...
+
 ### 참고자료
 (https://powerdigitalmarketing.com/blog/what-is-metadata-and-how-do-you-use-it-to-benefit-your-brand/#gref)
 (https://namu.wiki/w/%EB%AF%B8%EB%94%94%EC%96%B4%20%EB%AF%B9%EC%8A%A4)
