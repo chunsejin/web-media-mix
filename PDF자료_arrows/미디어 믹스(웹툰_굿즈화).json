@@ -1,0 +1,937 @@
+{
+  "nodes": [
+    {
+      "id": "n14",
+      "position": {
+        "x": 1499.686237915888,
+        "y": -116.7676596649925
+      },
+      "caption": "웝툰",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 1499.686237915888,
+        "y": -431.36128384227356
+      },
+      "caption": "제목",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 1722.1375228896954,
+        "y": -339.2189446388003
+      },
+      "caption": "키워드",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 1814.279862093169,
+        "y": -116.7676596649925
+      },
+      "caption": "등장인물",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 1735.4320642834023,
+        "y": 91.54233463027447
+      },
+      "caption": "작가",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 1499.686237915888,
+        "y": 197.82596451228858
+      },
+      "caption": "연재",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 1277.2349529420803,
+        "y": 105.68362530881518
+      },
+      "caption": "평점",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 1185.0926137386068,
+        "y": -116.76765966499227
+      },
+      "caption": "유/무료",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 1263.9404115483735,
+        "y": -325.07765396025945
+      },
+      "caption": "조회수",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 1722.1375228896954,
+        "y": -624.3488396094027
+      },
+      "caption": "제작사",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 2018.7828567891343,
+        "y": -325.07765396025945
+      },
+      "caption": "회차수",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 2018.7828466079334,
+        "y": 91.54236000124376
+      },
+      "caption": "독자수",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": 1277.2349619932234,
+        "y": 390.81352424614954
+      },
+      "caption": "연령가",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": 980.5896190426415,
+        "y": 91.54233463027447
+      },
+      "caption": "소장가격",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 980.5896190426415,
+        "y": -310.8344746917295
+      },
+      "caption": "소개",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 1899.8170157715517,
+        "y": -719.2543456975242
+      },
+      "caption": "장르",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 2018.7828567891343,
+        "y": -635.8642785382389
+      },
+      "caption": "시대",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n31",
+      "position": {
+        "x": 2102.1729239484193,
+        "y": -516.8984375206563
+      },
+      "caption": "배경",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n32",
+      "position": {
+        "x": 2128.8734862704505,
+        "y": -116.7676596649925
+      },
+      "caption": "등장인물 이름",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n33",
+      "position": {
+        "x": 2299.20904858503,
+        "y": -400.1184450053066
+      },
+      "caption": "나이",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n34",
+      "position": {
+        "x": 2418.5997516348402,
+        "y": -276.01765966499227
+      },
+      "caption": "직업",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n35",
+      "position": {
+        "x": 2459.4818215283453,
+        "y": -116.76765664920947
+      },
+      "caption": "역할",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n36",
+      "position": {
+        "x": 2415.18870330667,
+        "y": 48.53650796395493
+      },
+      "caption": "성별",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n37",
+      "position": {
+        "x": 2299.20904858503,
+        "y": 166.58312567532164
+      },
+      "caption": "성격",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n38",
+      "position": {
+        "x": 2056.6093452959785,
+        "y": 219.2459867970615
+      },
+      "caption": "글작가",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n39",
+      "position": {
+        "x": 1979.8324208864228,
+        "y": 335.942691233295
+      },
+      "caption": "각색 작가",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n40",
+      "position": {
+        "x": 1853.478681994769,
+        "y": 416.3931691101533
+      },
+      "caption": "그림 작가",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n41",
+      "position": {
+        "x": 1724.899747723803,
+        "y": 582.0348400121451
+      },
+      "caption": "연재처",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n42",
+      "position": {
+        "x": 1622.4664116382562,
+        "y": 650.7044351199262
+      },
+      "caption": "연재기간",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n43",
+      "position": {
+        "x": 1499.686237915888,
+        "y": 675.3213310875323
+      },
+      "caption": "연재주기",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n44",
+      "position": {
+        "x": 1376.9060641935198,
+        "y": 650.704435119926
+      },
+      "caption": "연재상태",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n45",
+      "position": {
+        "x": 1274.472728107973,
+        "y": 582.0348400121449
+      },
+      "caption": "연재일",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n46",
+      "position": {
+        "x": 2102.1729239484193,
+        "y": 1194.7431595625458
+      },
+      "caption": "굿즈",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n47",
+      "position": {
+        "x": 2261.4229167830017,
+        "y": 1035.4931523971281
+      },
+      "caption": "용도",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n48",
+      "position": {
+        "x": 2327.3864265909174,
+        "y": 1194.7431523971281
+      },
+      "caption": "원작작가",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n49",
+      "position": {
+        "x": 2261.4229167830017,
+        "y": 1353.9931523971281
+      },
+      "caption": "소재",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n50",
+      "position": {
+        "x": 2102.1729167830017,
+        "y": 1419.9566622050434
+      },
+      "caption": "재고유무",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n51",
+      "position": {
+        "x": 1942.922916783002,
+        "y": 1353.9931523971281
+      },
+      "caption": "제조국",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n52",
+      "position": {
+        "x": 1876.9594069750865,
+        "y": 1194.7431523971281
+      },
+      "caption": "관련인물",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n53",
+      "position": {
+        "x": 1942.922916783002,
+        "y": 1035.4931523971281
+      },
+      "caption": "가격",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n54",
+      "position": {
+        "x": 2102.1729137672187,
+        "y": 969.529642589213
+      },
+      "caption": "제목",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n55",
+      "position": {
+        "x": 2261.4229167830017,
+        "y": 838.7431523971283
+      },
+      "caption": "이름",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n56",
+      "position": {
+        "x": 2458.172916783002,
+        "y": 1035.4931523971281
+      },
+      "caption": "작품장르",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n57",
+      "position": {
+        "x": 2458.172916783002,
+        "y": 1353.9931523971281
+      },
+      "caption": "디자인",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n58",
+      "position": {
+        "x": 2261.4229167830017,
+        "y": 1550.7431523971281
+      },
+      "caption": "사용연령",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n59",
+      "position": {
+        "x": 1942.9229102300778,
+        "y": 1550.743149465799
+      },
+      "caption": "제조사",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n13",
+      "fromId": "n14",
+      "toId": "n15",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n14",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "fromId": "n14",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n14",
+      "toId": "n18",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n14",
+      "toId": "n19",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n14",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n14",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "fromId": "n14",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n14",
+      "toId": "n23",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n14",
+      "toId": "n24",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "fromId": "n14",
+      "toId": "n25",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "fromId": "n14",
+      "toId": "n26",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "fromId": "n14",
+      "toId": "n27",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "fromId": "n14",
+      "toId": "n28",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "fromId": "n16",
+      "toId": "n29",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n28",
+      "fromId": "n16",
+      "toId": "n30",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n29",
+      "fromId": "n16",
+      "toId": "n31",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n30",
+      "fromId": "n32",
+      "toId": "n33",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n31",
+      "fromId": "n32",
+      "toId": "n34",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n32",
+      "fromId": "n32",
+      "toId": "n35",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n33",
+      "fromId": "n32",
+      "toId": "n36",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n34",
+      "fromId": "n32",
+      "toId": "n37",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n35",
+      "fromId": "n17",
+      "toId": "n32",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n36",
+      "fromId": "n18",
+      "toId": "n38",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n37",
+      "fromId": "n18",
+      "toId": "n39",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n38",
+      "fromId": "n18",
+      "toId": "n40",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n39",
+      "fromId": "n19",
+      "toId": "n43",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n40",
+      "fromId": "n19",
+      "toId": "n42",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n41",
+      "fromId": "n19",
+      "toId": "n41",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n42",
+      "fromId": "n19",
+      "toId": "n44",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n43",
+      "fromId": "n19",
+      "toId": "n45",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n44",
+      "fromId": "n46",
+      "toId": "n47",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n45",
+      "fromId": "n46",
+      "toId": "n48",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n46",
+      "fromId": "n46",
+      "toId": "n49",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n47",
+      "fromId": "n46",
+      "toId": "n50",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n48",
+      "fromId": "n46",
+      "toId": "n51",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n49",
+      "fromId": "n46",
+      "toId": "n52",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n50",
+      "fromId": "n46",
+      "toId": "n53",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n51",
+      "fromId": "n46",
+      "toId": "n54",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n52",
+      "fromId": "n46",
+      "toId": "n55",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n53",
+      "fromId": "n46",
+      "toId": "n56",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n54",
+      "fromId": "n46",
+      "toId": "n57",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n55",
+      "fromId": "n46",
+      "toId": "n58",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n56",
+      "fromId": "n46",
+      "toId": "n59",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n72",
+      "fromId": "n14",
+      "toId": "n46",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n73",
+      "fromId": "n46",
+      "toId": "n14",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    }
+  ],
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  }
+}
