@@ -32,10 +32,11 @@ https://drive.google.com/file/d/17X-8BmjjvgHodqZy2Cw3wBSL2S4UriTd/view?usp=shari
 [Webtoon-Drama.txt](https://github.com/chunsejin/web-media-mix/files/8465290/Webtoon-Drama.txt)
 
 웹툰 - 드라마 arrows.app 공유
-https://drive.google.com/file/d/1I7F1KFeB_4R-DS4CBcTkh6Gxv_x4GwJy/view?usp=sharing
+https://drive.google.com/file/d/1TfmsZs-AOTU0DA03f4ieAg6xkCcjTn0y/view?usp=sharing
   
   
-![미디어 믹스(웹툰_드라마화)](https://user-images.githubusercontent.com/101037541/162769438-5043773a-5c68-4863-b738-1e2a711213f4.png)
+![미디어믹스(웹툰_드라마)](https://user-images.githubusercontent.com/101037541/163107629-eb5327db-0b09-4d87-a5fa-326822297242.png)
+
 
 </div>
 </details>
