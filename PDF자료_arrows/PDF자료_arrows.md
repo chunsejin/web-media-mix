@@ -116,7 +116,8 @@ https://drive.google.com/file/d/1zhyrFpBZJlTQjO738tFO5NM05vXuATKO/view?usp=shari
 https://drive.google.com/file/d/1Yfvbg14Gvt7lU6i9MFzNsGX0yu6o_r1P/view?usp=sharing
 
   
-![웹툰_영화](https://user-images.githubusercontent.com/94276637/162874148-9954a909-4233-47b8-a0e1-c9682fec6b98.png)
+![Webtoon_Movie](https://user-images.githubusercontent.com/94276637/163134048-bf78d45b-9aec-4b8e-8ed0-32495a8e154d.png)
+
 
 
 
