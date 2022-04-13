@@ -16,10 +16,10 @@ PDF의 미디어 믹스 자료중 나오는 지식 그래프를 arrow.app으로 
 [WebNovel-Webtoon.txt](https://github.com/chunsejin/web-media-mix/files/8465291/WebNovel-Webtoon.txt)
   
 웹소설 - 웹툰 arrows.app 공유
-https://drive.google.com/file/d/1Z0RAmiwp_a2wjhFXE9FNVAkvxbBP_Izp/view?usp=sharing
+https://drive.google.com/file/d/17X-8BmjjvgHodqZy2Cw3wBSL2S4UriTd/view?usp=sharing
 
   
-![미디어 믹스(웹소설_웹툰)](https://user-images.githubusercontent.com/101037541/162768002-71ee622e-cee2-4954-b64f-a58a9539744d.png)
+![미디어믹스(웹소설_웹툰)](https://user-images.githubusercontent.com/101037541/163104660-2f362981-6bc0-4a40-b0dc-a711fad7c531.png)
 
 
 </div>
