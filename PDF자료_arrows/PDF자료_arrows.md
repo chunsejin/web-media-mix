@@ -81,8 +81,7 @@ https://drive.google.com/file/d/1eUre4ByCuqIaSj3OkpjtYRBarg6ZqaFj/view?usp=shari
 웹툰 - 무빙툰 arrows.app 공유
 https://drive.google.com/file/d/1zhyrFpBZJlTQjO738tFO5NM05vXuATKO/view?usp=sharing
 
- 
-![미디어 믹스(웹소설_웹툰)](https://user-images.githubusercontent.com/100738731/162783748-e3dd3986-c03e-46b5-94ae-9964a2401810.png)
+ ![미디어믹스(웹툰_무빙툰)](https://user-images.githubusercontent.com/100738731/163110253-98315c5b-b73a-4d49-835f-84e7b314057f.png)
 
 
 </div>
