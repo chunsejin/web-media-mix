@@ -47,10 +47,9 @@ https://drive.google.com/file/d/1I7F1KFeB_4R-DS4CBcTkh6Gxv_x4GwJy/view?usp=shari
 [Webtoon-Game.txt](https://github.com/chunsejin/web-media-mix/files/8465398/Webtoon-Game.txt)
 
 웹툰 - 게임 arrows.app 공유
-https://drive.google.com/file/d/1QCIf5mOmb5ght2I1AcMbvGBh2-UyjzKA/view?usp=sharing
-  
-  
-![미디어 믹스(웹툰_게임)](https://user-images.githubusercontent.com/100738390/162772350-a7f61ed0-3f1d-4b5d-aa2d-2e2a3cc1c97c.png)
+https://drive.google.com/file/d/1eUre4ByCuqIaSj3OkpjtYRBarg6ZqaFj/view?usp=sharing
+
+  ![미디어믹스(웹툰_게임)](https://user-images.githubusercontent.com/100738390/163105524-4a6c7023-984a-4ae2-897a-3d1d466f2da8.png)
 
 </div>
 </details>
@@ -63,7 +62,7 @@ https://drive.google.com/file/d/1QCIf5mOmb5ght2I1AcMbvGBh2-UyjzKA/view?usp=shari
 [Webtoon-goods.txt](https://github.com/chunsejin/web-media-mix/files/8465448/Webtoon-goods.txt)
 
 웹툰 - 굿즈 arrows.app 공유
- https://drive.google.com/file/d/1c_0UGraFQZ3ghRTrp9fqKDK-kTqmYhiO/view?usp=sharing 
+ https://drive.google.com/file/d/1c_0UGraFQZ3ghRTrp9fqKDK-kTqmYhiO/view?usp=sharing   
   
   ![미디어 믹스(웹툰_굿즈)](https://user-images.githubusercontent.com/100738479/163104251-1913cfdd-e9dd-4b47-b999-7cdf6fb9e9f8.png)
 
