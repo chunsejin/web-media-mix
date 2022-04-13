@@ -13,3 +13,8 @@
 LPG의 장점은 RDF 그래프보다 심플하면서도 다양하고 풍부한 속성을 추가할 수 있다. 또한 관계에 대한 속성을 지정할 수 있다.
 
 > [LPG/RDF 비교](https://miro.medium.com/max/1400/1*FAK8MU1sYf6yrVpVmNQDzA.png)
+
+
+## 5. aroows.app
+arrows app에 대한 공부
+[강의영상](https://www.youtube.com/watch?v=ZHJ-BrKJ8A4)
