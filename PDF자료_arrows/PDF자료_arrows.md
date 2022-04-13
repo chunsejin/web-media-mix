@@ -10,6 +10,24 @@ PDF의 미디어 믹스 자료중 나오는 지식 그래프를 arrow.app으로 
 토글(접고 펴기), txt파일, arrows링크(전체공유), 지식그래프.png
 
 <details>
+<summary>설명</summary>
+<div markdown="1">  
+  
+  기존에 arrows.app을 사용한 자료(그림1)는 RDF형식에 가까운 형태로 표현되었습니다.  
+  
+  하지만 이는, arrow.app의 label,caption 기능을 효과적으로 사용하지 못하고,교수님께서 LPG방향으로 구현하는 것을 제안하셔서,  
+  (그림2)와 같이 표현을 해보게되었습니다.  
+  label를 분류 기준, caption을 인스턴스의 이름, properties는 세부적 사항이라고 생각하시면 구현 시에 편하실 것 같습니다.  
+  
+  (그림3)은 (그림2)를 바탕으로 실제사례를 반영한 것이며, 이 또한 구현 시에 참고하시면 도움이 될 것이라 생각합니다.  
+  
+  
+![LPG양식](https://user-images.githubusercontent.com/100738390/163113634-30bcc1e2-e8cb-43b2-b594-49c54d606940.png)
+
+</div>
+</details>
+
+<details>
 <summary>웹소설 -> 웹툰</summary>
 <div markdown="1">       
 웹소설 - 웹툰 txt파일 다운
