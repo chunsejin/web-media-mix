@@ -1,0 +1,880 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": 389.59362417729614,
+        "y": 364.499356005992
+      },
+      "caption": "신과 함께",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "소개": "나쁘지도 착하지도 않은 평범한 남자 김자홍이 저승에서 49일 동안 일곱 번의 재판을 받게 된다.",
+        "평점": "9.9",
+        "조회수": "null",
+        "제작사": "네이버웹툰",
+        "회차수": "213",
+        "독자수": " null",
+        "연령가": "전체이용가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 245.3065809022605,
+        "y": 84.9454300525897
+      },
+      "caption": "판타지,드라마",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 704.1872483545623,
+        "y": 364.49935600597087
+      },
+      "caption": "주호민",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가유형": "글작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": -59.03459371763425,
+        "y": 105.48373363827938
+      },
+      "caption": "부분유료",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {
+        "가격": "400원"
+      },
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 711.0390884101414,
+        "y": 1183.3290318211577
+      },
+      "caption": "신과함께",
+      "labels": [
+        "영화"
+      ],
+      "properties": {
+        "부제": "죄와 벌",
+        "개봉일": "2017.12.20.",
+        "연령등급": "12세 관람가",
+        "평점": "8.73",
+        "제작사": "리얼라이즈픽쳐스,덱스터스튜디오",
+        "음악작가": "방준석",
+        "배급사": "롯데엔터테인먼트",
+        "관객수": " 1,441만명",
+        "러닝타임": "139분",
+        "제작국가": "대한민국"
+      },
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 61.8282476527433,
+        "y": 386.187165463335
+      },
+      "caption": "수,일",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 944.7876525253929,
+        "y": 778.4646425772708
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "하정우",
+        "배역": "강림"
+      },
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 452.49165495954094,
+        "y": 1572.8245896390538
+      },
+      "caption": "",
+      "labels": [
+        "제작진"
+      ],
+      "properties": {
+        "담당": "감독",
+        "이름": "김용화"
+      },
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 245.3065809022605,
+        "y": 1142.748293111895
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 509.9140674982133,
+        "y": 58.84678519004433
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 670.716335581978,
+        "y": 105.48373363827938
+      },
+      "caption": "한국신화",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 670.716335581978,
+        "y": 505.7054801843077
+      },
+      "caption": "주호민",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가유형": "그림작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 93.01086402109286,
+        "y": 505.7054801843077
+      },
+      "caption": "완결",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": 193.4691283323664,
+        "y": 628.0058744394029
+      },
+      "caption": "주 2회",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 주기"
+      },
+      "style": {}
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 359.98510502693875,
+        "y": 677.6965526197305
+      },
+      "caption": "2010. 01. 08. ~ 2012. 08. 29.",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 585.7181200221969,
+        "y": 628.0058744394029
+      },
+      "caption": "네이버웹툰",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재처"
+      },
+      "style": {}
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 320.3926977325479,
+        "y": 926.5237313417174
+      },
+      "caption": "이승과저승",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n31",
+      "position": {
+        "x": 280.94594764087253,
+        "y": 1366.5596383447203
+      },
+      "caption": "판타지,드라마",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n32",
+      "position": {
+        "x": 1132.9918386205954,
+        "y": 982.0594576336991
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "차태현",
+        "배역": "김자홍"
+      },
+      "style": {}
+    },
+    {
+      "id": "n33",
+      "position": {
+        "x": 1178.5362166406449,
+        "y": 1183.3290318211577
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "주지훈",
+        "배역": "해원맥"
+      },
+      "style": {}
+    },
+    {
+      "id": "n34",
+      "position": {
+        "x": 1149.9103773219313,
+        "y": 1344.4052767260819
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "김향기",
+        "배역": "덕춘"
+      },
+      "style": {}
+    },
+    {
+      "id": "n35",
+      "position": {
+        "x": 1087.909745243543,
+        "y": 1459.9552650705139
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "김동욱",
+        "배역": "수홍"
+      },
+      "style": {}
+    },
+    {
+      "id": "n36",
+      "position": {
+        "x": 919.3063165126136,
+        "y": 1601.872131874521
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "마동석",
+        "배역": "상주신"
+      },
+      "style": {}
+    },
+    {
+      "id": "n37",
+      "position": {
+        "x": 1835.6182337682765,
+        "y": 628.0058744394029
+      },
+      "caption": "신과함께",
+      "labels": [
+        "영화"
+      ],
+      "properties": {
+        "부제": "인과 연",
+        "개봉일": "2018.08.01.",
+        "연령등급": "12세 관람가",
+        "평점": "8.63",
+        "제작사": "리얼라이즈픽쳐스,덱스터스튜디오",
+        "음악작가": "방준석",
+        "배급사": "롯데엔터테인먼트",
+        "관객수": "1,227만명",
+        "러닝타임": "141분",
+        "제작국가": "대한민국"
+      },
+      "style": {}
+    },
+    {
+      "id": "n38",
+      "position": {
+        "x": 1492.29292935803,
+        "y": 187.55209919957412
+      },
+      "caption": "이승과 저승",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n39",
+      "position": {
+        "x": 1759.150600940055,
+        "y": 74.81106797331336
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n40",
+      "position": {
+        "x": 2032.7030001608537,
+        "y": 105.48373363827943
+      },
+      "caption": "판타지,드라마",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n41",
+      "position": {
+        "x": 1279.3785109208475,
+        "y": 677.6965526197305
+      },
+      "caption": "",
+      "labels": [
+        "제작진"
+      ],
+      "properties": {
+        "담당": "감독",
+        "이름": "김용화"
+      },
+      "style": {}
+    },
+    {
+      "id": "n42",
+      "position": {
+        "x": 2258.3720910248,
+        "y": 263.1073009341944
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "하정우",
+        "배역": "강림"
+      },
+      "style": {}
+    },
+    {
+      "id": "n43",
+      "position": {
+        "x": 2349.861543389498,
+        "y": 410.2316535563581
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "김향기",
+        "배역": "덕춘"
+      },
+      "style": {}
+    },
+    {
+      "id": "n44",
+      "position": {
+        "x": 2391.8579875424202,
+        "y": 578.3155424541328
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "주지훈",
+        "배역": "해원맥"
+      },
+      "style": {}
+    },
+    {
+      "id": "n45",
+      "position": {
+        "x": 2402.0147455973156,
+        "y": 778.4646425772708
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "김동욱",
+        "배역": "수홍"
+      },
+      "style": {}
+    },
+    {
+      "id": "n46",
+      "position": {
+        "x": 2267.4953609684626,
+        "y": 982.0594576336991
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "이름": "마동석",
+        "배역": "상주신"
+      },
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n0",
+      "toId": "n3",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n0",
+      "toId": "n5",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n0",
+      "toId": "n6",
+      "type": "영화화",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b",
+        "type-font-size": 40,
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n6",
+      "fromId": "n6",
+      "toId": "n0",
+      "type": "웹툰화",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b",
+        "directionality": "directed",
+        "detail-position": "below",
+        "type-font-size": 40
+      }
+    },
+    {
+      "id": "n12",
+      "fromId": "n0",
+      "toId": "n12",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n6",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "fromId": "n6",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "fromId": "n6",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "fromId": "n0",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "fromId": "n0",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n28",
+      "fromId": "n0",
+      "toId": "n23",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n30",
+      "fromId": "n0",
+      "toId": "n25",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n31",
+      "fromId": "n0",
+      "toId": "n27",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n32",
+      "fromId": "n0",
+      "toId": "n28",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n33",
+      "fromId": "n0",
+      "toId": "n29",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n34",
+      "fromId": "n6",
+      "toId": "n30",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n35",
+      "fromId": "n6",
+      "toId": "n31",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n36",
+      "fromId": "n6",
+      "toId": "n32",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n37",
+      "fromId": "n6",
+      "toId": "n33",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n38",
+      "fromId": "n6",
+      "toId": "n34",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n39",
+      "fromId": "n6",
+      "toId": "n35",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n40",
+      "fromId": "n6",
+      "toId": "n36",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n41",
+      "fromId": "n0",
+      "toId": "n37",
+      "type": "영화화",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b",
+        "detail-position": "above",
+        "type-font-size": 40
+      }
+    },
+    {
+      "id": "n42",
+      "fromId": "n37",
+      "toId": "n0",
+      "type": "웹툰화",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b",
+        "detail-position": "below",
+        "type-font-size": 40
+      }
+    },
+    {
+      "id": "n43",
+      "fromId": "n37",
+      "toId": "n38",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n44",
+      "fromId": "n37",
+      "toId": "n39",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n45",
+      "fromId": "n37",
+      "toId": "n40",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n46",
+      "fromId": "n37",
+      "toId": "n41",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n47",
+      "fromId": "n37",
+      "toId": "n42",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n48",
+      "fromId": "n37",
+      "toId": "n43",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n49",
+      "fromId": "n37",
+      "toId": "n44",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n50",
+      "fromId": "n37",
+      "toId": "n45",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n51",
+      "fromId": "n37",
+      "toId": "n46",
+      "type": "",
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  }
+}
