@@ -18,3 +18,7 @@ LPG의 장점은 RDF 그래프보다 심플하면서도 다양하고 풍부한 �
 ## 5. aroows.app
 arrows app에 대한 공부
 [강의영상](https://www.youtube.com/watch?v=ZHJ-BrKJ8A4)
+
+## 6. 원소스멀티유즈(One Source Multi Use)
+원소스멀티유즈(One Source Multi Use)
+원소스멀티유즈(OSMU)는 대한민국 매체 산업에서 사용되는 용어이다. 캐릭터 마케팅전략으로 가장 많이 언급되는 것 중 하나로, 하나의 콘텐츠를 영화, 게임, 음반 애니메이션 팬시 캐릭터상품, 장난감, 출판 등의 다양화 방식으로 판매해 부가가치를 극대화시키는 마케팅 방식을 일컫는다.
