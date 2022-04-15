@@ -17,6 +17,7 @@ LPG의 장점은 RDF 그래프보다 심플하면서도 다양하고 풍부한 �
 
 ## 5. aroows.app
 arrows app에 대한 공부
+강의 영상 공유
 [강의영상](https://www.youtube.com/watch?v=ZHJ-BrKJ8A4)
 
 ## 6. 원소스멀티유즈(One Source Multi Use)
