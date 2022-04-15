@@ -4,7 +4,7 @@ PDF자료_arrows.md의 웹툰 -> 영화의 자료를 참고하여 신과함께�
 <details>
 <summary>신과함께</summary>
 <div markdown="1">       
-웹툰 -> 영화 txt파일 다운
+웹툰 -> 영화 txt파일
 [신과함께.txt](https://github.com/chunsejin/web-media-mix/blob/Minimin_branch/arrows/sin.txt)
 
 웹툰 -> 영화 arrows.app 공유
