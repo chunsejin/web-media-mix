@@ -118,6 +118,21 @@ https://drive.google.com/file/d/1Yfvbg14Gvt7lU6i9MFzNsGX0yu6o_r1P/view?usp=shari
   
 ![Webtoon_Movie](https://user-images.githubusercontent.com/94276637/163134048-bf78d45b-9aec-4b8e-8ed0-32495a8e154d.png)
 
+</div>
+</details>
+
+<details>
+<summary>웹툰 -> 애니메이션</summary>
+<div markdown="1">       
+웹툰 - 애니메이션 txt파일 다운
+[Webtoon-Animation.txt](https://github.com/chunsejin/web-media-mix/files/8494444/Webtoon-Animation.txt)
+
+웹툰 - 애니메이션 arrows.app 공유
+https://drive.google.com/file/d/1cZpwi8PCL_hDUHuPLUnG3fGKY80GjP2Z/view?usp=sharing
+  
+![미디어믹스(웹툰_애니메이션)](https://user-images.githubusercontent.com/100738541/163536414-49f571a1-2462-4b4b-9cc6-6ff398932a10.png)
 
 
+</div>
+</details>
 
