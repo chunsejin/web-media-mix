@@ -127,7 +127,7 @@ https://drive.google.com/file/d/1Yfvbg14Gvt7lU6i9MFzNsGX0yu6o_r1P/view?usp=shari
 웹툰 - 애니메이션 txt파일 다운
 [Webtoon-Animation.txt](https://github.com/chunsejin/web-media-mix/files/8494444/Webtoon-Animation.txt)
 
-웹툰 - 애니메이션 arrows.app 공유  
+웹툰 - 애니메이션 arrows.app 공유
 https://drive.google.com/file/d/1XtuFSmplWe3Wj0KchLy8nwiR8_WMGc3w/view?usp=sharing
   
 ![미디어믹스(웹툰_애니메이션)](https://user-images.githubusercontent.com/100738541/163536414-49f571a1-2462-4b4b-9cc6-6ff398932a10.png)
