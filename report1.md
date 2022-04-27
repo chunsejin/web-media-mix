@@ -8,6 +8,7 @@
 ### 4. 기존 문제점
        미디어믹스 메타데이터가 없어 여러 미디어 매체들 사이에서의 이동이 쉽지 않다.
        비슷한 분류 혹은 특정 포인트가 있는 웹툰을 보다가 영화 드라마 중 비슷한 요소가 있는 것을 찾기가 
+### 5. neo4j 설치 neo4j 사용법 공부
 
 ### 참고자료
 (https://powerdigitalmarketing.com/blog/what-is-metadata-and-how-do-you-use-it-to-benefit-your-brand/#gref)
