@@ -32,7 +32,7 @@
 <summary>3. 모든 노드 통합</summary>
 <div markdown="1">       
 
-    [PDF자료_arrows폴더](https://github.com/chunsejin/web-media-mix/blob/main/PDF%EC%9E%90%EB%A3%8C_arrows/PDF%EC%9E%90%EB%A3%8C_arrows.md) 에 저장된 모든 파일을 하나의 파일로 합치는 과정이 필요합니다. 
+    PDF자료_arrows폴더에 저장된 모든 파일을 하나의 파일로 합치는 과정이 필요합니다. 
     최대한 모든 사람이 보기 쉽도록 가시성을 중시해서 만들어주시면 감사합니다.
 
 
