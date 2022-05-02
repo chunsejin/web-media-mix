@@ -11,7 +11,7 @@
 <div markdown="1">       
 
     스키마는 데이터를 저장하기위한 틀인것 같습니다. 향후 작업을 위해 스키마에 대한 이해는 필수라고 생각하여 첫번째로 추가했습니다.
-    잘 정리하여 Wiki에 정리해주시면 감사합니다.
+    잘 정리하여 Wiki에 올리면 좋을것 같습니다.
 
 </div>
 </details>
@@ -33,7 +33,7 @@
 <div markdown="1">       
 
     PDF자료_arrows폴더에 저장된 모든 파일을 하나의 파일로 합치는 과정이 필요합니다. 
-    최대한 모든 사람이 보기 쉽도록 가시성을 중시해서 만들어주시면 감사합니다.
+    최대한 모든 사람이 보기 쉽도록 가시성을 중시해서 만드시면 좋을것 같습니다.
 
 
 </div>
@@ -63,7 +63,67 @@
 <summary>6. (추후) 크롤링, 적용되는지 확인, neo4j확장</summary>
 <div markdown="1">       
 
-    이부분은 neo4j만 하면 될것 같습니다. 크롤링은 안해도될것같습니다. 
+    이부분은 neo4j만 하면 될것 같습니다. 크롤링은 안해도 될 것 같습니다. 
     하지만 이 프로젝트를 우리가 진짜 한다고 생각하며 하는것도 좋을것같습니다.
+</div>
+</details>
+
+
+## sub roadmap
+![Knight · SlidesCarnival의 사본](https://user-images.githubusercontent.com/100738390/166186953-ae19a469-4fba-4137-98d2-c7e9e6d757cd.png)
+
+<details>
+<summary>1. Neo4j</summary>
+<div markdown="1">       
+
+    저희가 하려하는 프로젝트는 최종적으로 Neo4j를 이용하여 구현됩니다. 하지만 Neo4j는 많은 명령어들이 있고, 시스템 또한 한눈에 알기는 어렵습니다.
+    때문에, Neo4j의 기능과 명령어들을 대략적이라도 습득하는 것이 우선되어야합니다.
+  
+</div>
+</details>
+
+<details>
+<summary>2. Community Standards</summary>
+<div markdown="1">       
+
+    Repository>Insights>Community Standards로 들어가시면 여러가지 Checklist가 있습니다.
+    작성 기준(2022.05.02)으로, README,License만이 추가되어 있습니다. 
+    Description, Code of Conduct, Contributing, Issue templates, Pull request template을 추가하시면 됩니다.
+    예를 들어, Pull request를 할 때 필요한 내용들을 양식으로 만들어서 Pull request template을 만들어 주시면 됩니다.
+  
+</div>
+</details>
+
+
+<details>
+<summary>3. Wiki 정리</summary>
+<div markdown="1">       
+
+    현재 Wiki는 Home에만 너무 많은 정보가 몰려 있습니다. 이는 가독성을 떨어뜨려 Wiki의 제 역할을 못하게 합니다.
+    New Page 기능을 사용하여, 분류가 필요하다고 생각합니다.
+    예를 들어 RDF,LPG에 관한 내용은 새로 페이지를 만드는 것이 좋을 것 같고, 
+    이 둘의 차이점도 중요하기 때문에 보이게 작성해주시면 좋을 것 같습니다.
+
+</div>
+</details>
+
+<details>
+<summary>4. Projects</summary>
+<div markdown="1">       
+
+    이 단계는 필수적인 절차는 아니지만, Repository의 Projects기능을 사용하면,
+    많은 사람들이 한 번에 프로젝트의 진행 상황을 알 수 있을 것 입니다.
+    to-do 리스트와 기능이 비슷한 것 같습니다.
+
+</div>
+</details>
+
+<details>
+<summary>5. Readme 꾸미기</summary>
+<div markdown="1">       
+
+    현재 Readme는 내용의 큰 문제는 없지만, 사진,그림 등이 없어 가시성이 떨어집니다.
+    저희의 프로젝트를 한 눈에 알 수 있는 이미지가 있으면 좋을 것 같아 제안해봅니다.
+
 </div>
 </details>
