@@ -1,0 +1,656 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n61",
+      "position": {
+        "x": 2115.9977746543586,
+        "y": 360.49935600597087
+      },
+      "caption": "",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "소개": "",
+        "평점": "",
+        "조회수": "",
+        "제작사": "",
+        "회차수": "",
+        "독자수": "",
+        "연령가": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n62",
+      "position": {
+        "x": 2338.4490596281667,
+        "y": 138.04807103216308
+      },
+      "caption": "",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n63",
+      "position": {
+        "x": 2414.4581155225715,
+        "y": 241.13180847017634
+      },
+      "caption": "",
+      "labels": [
+        "등장인물 이름"
+      ],
+      "properties": {
+        "나이": "",
+        "직업": "",
+        "역할": "",
+        "성별": "",
+        "성격": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n64",
+      "position": {
+        "x": 2437.44323888722,
+        "y": 360.4993590217538
+      },
+      "caption": "",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "글작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n65",
+      "position": {
+        "x": 1818.9250290900077,
+        "y": 237.71918529938569
+      },
+      "caption": "",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n66",
+      "position": {
+        "x": 1938.1644758554767,
+        "y": 92.72612300052776
+      },
+      "caption": "",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {
+        "가격": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n67",
+      "position": {
+        "x": 2437.44323888722,
+        "y": 1179.3290318211577
+      },
+      "caption": "",
+      "labels": [
+        "애니메이션"
+      ],
+      "properties": {
+        "소개": "",
+        "원작작가": "",
+        "시청등급": "",
+        "회차수": "",
+        "시청률": "",
+        "평점": "",
+        "배급사": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n68",
+      "position": {
+        "x": 2232.820917510205,
+        "y": 68.4009108435925
+      },
+      "caption": "",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형 ": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n69",
+      "position": {
+        "x": 2108.296901661841,
+        "y": 46
+      },
+      "caption": "",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n70",
+      "position": {
+        "x": 1801.4041504770776,
+        "y": 360.4993590217538
+      },
+      "caption": "",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n71",
+      "position": {
+        "x": 1818.9250290900077,
+        "y": 483.2795267125556
+      },
+      "caption": "",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 주기"
+      },
+      "style": {}
+    },
+    {
+      "id": "n72",
+      "position": {
+        "x": 1886.6376645273144,
+        "y": 585.7128688296689
+      },
+      "caption": "",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n73",
+      "position": {
+        "x": 1999.1746317985126,
+        "y": 652.5978011683485
+      },
+      "caption": "",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재처"
+      },
+      "style": {}
+    },
+    {
+      "id": "n74",
+      "position": {
+        "x": 2405.6426918448374,
+        "y": 483.2795267125556
+      },
+      "caption": "",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "각색작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n75",
+      "position": {
+        "x": 2335.6520985695215,
+        "y": 585.7128688296689
+      },
+      "caption": "",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "그림작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n76",
+      "position": {
+        "x": 2670.46180287399,
+        "y": 956.8777438315669
+      },
+      "caption": "",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n77",
+      "position": {
+        "x": 2737.521509049481,
+        "y": 1228.1660089020402
+      },
+      "caption": "",
+      "labels": [
+        "성우"
+      ],
+      "properties": {
+        "배역": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n78",
+      "position": {
+        "x": 2745.1658962903525,
+        "y": 1083.9928224805365
+      },
+      "caption": "",
+      "labels": [
+        "제조사"
+      ],
+      "properties": {
+        "담당": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n79",
+      "position": {
+        "x": 2150.937772335831,
+        "y": 1056.5488580987897
+      },
+      "caption": "",
+      "labels": [
+        "방영"
+      ],
+      "properties": {
+        "방영 유형": "요일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n80",
+      "position": {
+        "x": 2564.8336607560286,
+        "y": 887.2305836429964
+      },
+      "caption": "",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형 ": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n81",
+      "position": {
+        "x": 2440.3096449076643,
+        "y": 864.8296727994039
+      },
+      "caption": "",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n82",
+      "position": {
+        "x": 2133.416893722901,
+        "y": 1179.3290318211577
+      },
+      "caption": "",
+      "labels": [
+        "방영"
+      ],
+      "properties": {
+        "방영 유형": "시간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n83",
+      "position": {
+        "x": 2150.937772335831,
+        "y": 1302.1091995119607
+      },
+      "caption": "",
+      "labels": [
+        "방영"
+      ],
+      "properties": {
+        "방영 유형": "상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n85",
+      "position": {
+        "x": 2684.2026413167305,
+        "y": 1386.4329284607802
+      },
+      "caption": "",
+      "labels": [
+        "OST"
+      ],
+      "properties": {
+        "가수": "",
+        "작곡가": "",
+        "발매일": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n86",
+      "position": {
+        "x": 2196.8134898909275,
+        "y": 1419.9587808174504
+      },
+      "caption": "",
+      "style": {},
+      "labels": [
+        "가격"
+      ],
+      "properties": {
+        "유/무료": ""
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n61",
+      "fromId": "n61",
+      "toId": "n62",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n62",
+      "fromId": "n61",
+      "toId": "n63",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n63",
+      "fromId": "n61",
+      "toId": "n64",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n64",
+      "fromId": "n61",
+      "toId": "n65",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n65",
+      "fromId": "n61",
+      "toId": "n66",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n66",
+      "fromId": "n61",
+      "toId": "n67",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n67",
+      "fromId": "n67",
+      "toId": "n61",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n68",
+      "fromId": "n61",
+      "toId": "n68",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n69",
+      "fromId": "n61",
+      "toId": "n69",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n70",
+      "fromId": "n61",
+      "toId": "n70",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n71",
+      "fromId": "n61",
+      "toId": "n71",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n72",
+      "fromId": "n61",
+      "toId": "n72",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n73",
+      "fromId": "n61",
+      "toId": "n73",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n74",
+      "fromId": "n61",
+      "toId": "n74",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n75",
+      "fromId": "n61",
+      "toId": "n75",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n77",
+      "fromId": "n67",
+      "toId": "n83",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n78",
+      "fromId": "n67",
+      "toId": "n82",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n79",
+      "fromId": "n67",
+      "toId": "n79",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n80",
+      "fromId": "n67",
+      "toId": "n81",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n81",
+      "fromId": "n67",
+      "toId": "n80",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n82",
+      "fromId": "n67",
+      "toId": "n76",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n83",
+      "fromId": "n67",
+      "toId": "n77",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n84",
+      "fromId": "n67",
+      "toId": "n78",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n85",
+      "fromId": "n67",
+      "toId": "n85",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n86",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n67",
+      "toId": "n86"
+    }
+  ]
+}
