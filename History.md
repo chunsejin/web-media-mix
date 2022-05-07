@@ -1,7 +1,8 @@
 # 완료된 사항
 
 1. 과도한 Readme 사용으로 인해 가독성이 안좋아짐
-> 해결을 위해 해결위해 Wiki 활성화, 이후 Issue등의 자료 Wiki로 이동
+> * 해결을 위해 해결위해 Wiki 활성화, 이후 Issue등의 자료 Wiki로 이동  
+> * Readme 정리
 
 <details>
 <summary> wiki 작업 내용</summary>
@@ -78,6 +79,7 @@
 > * 미생
 > * 북검전기
 > * 치즈인더트랩
+> * 내일
 > * 마음의 소리
   
 </div>
