@@ -1,0 +1,740 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": 470.43081265352623,
+        "y": 705.4659288603275
+      },
+      "caption": "치즈인더트랩",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "소개": "그 남자 그 여자의 로맨스릴러",
+        "평점": "9.43",
+        "조회수": "10만이상",
+        "제작사": "네이버",
+        "회차수": "312",
+        "독자수": "10만이상",
+        "연령가": "전체이용가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 612.0449091510889,
+        "y": 142.04807103216308
+      },
+      "caption": "현대사회",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 688.0539650454938,
+        "y": 245.13180847017634
+      },
+      "caption": "홍설",
+      "labels": [
+        "등장인물 이름"
+      ],
+      "properties": {
+        "나이": "20대 초반",
+        "직업": "대학생",
+        "역할": "주인공",
+        "성별": "여",
+        "성격": "소심"
+      },
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 711.0390884101427,
+        "y": 364.4993590217538
+      },
+      "caption": "순끼",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "글작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 92.52087861293023,
+        "y": 241.71918529938569
+      },
+      "caption": "목",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 211.7603253783991,
+        "y": 96.72612300052776
+      },
+      "caption": "무료",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {
+        "가격": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 625.1847784788441,
+        "y": 1190.2632002241417
+      },
+      "caption": "치즈인더트랩",
+      "labels": [
+        "드라마"
+      ],
+      "properties": {
+        "소개": "그 남자 그 여자의 로맨스릴러",
+        "원작작가": "윤태호",
+        "시청등급": "15세이용가",
+        "회차수": "16부작",
+        "시청률": "5.5",
+        "평점": "7.51",
+        "배급사": "tvn"
+      },
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 506.4167670331276,
+        "y": 72.4009108435925
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형 ": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 381.89275118476314,
+        "y": 50
+      },
+      "caption": "로맨스",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 75,
+        "y": 364.4993590217538
+      },
+      "caption": "완결",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 92.52087861293023,
+        "y": 487.2795267125556
+      },
+      "caption": "주 1회",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 주기"
+      },
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 160.23351405023698,
+        "y": 589.7128688296689
+      },
+      "caption": "10.07.07~2019.12.21",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 272.770481321435,
+        "y": 656.5978011683485
+      },
+      "caption": "네이버",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재처"
+      },
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 679.2385413677597,
+        "y": 487.2795267125556
+      },
+      "caption": "순끼",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "각색작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 609.2479480924442,
+        "y": 589.7128688296689
+      },
+      "caption": "순끼",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "그림작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 944.0576523969127,
+        "y": 960.8777438315669
+      },
+      "caption": "대학교",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "원인터내셔널"
+      },
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 1163.3965107546426,
+        "y": 1245.5870612564293
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "배역": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 1018.761745813275,
+        "y": 1087.9928224805365
+      },
+      "caption": "이윤정 감독",
+      "labels": [
+        "제작진"
+      ],
+      "properties": {
+        "담당": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 424.5336218587537,
+        "y": 1060.5488580987897
+      },
+      "caption": "월화 드라마",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "요일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 838.4295102789509,
+        "y": 891.2305836429964
+      },
+      "caption": "현대사회",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형 ": "현대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 713.9054944305868,
+        "y": 868.8296727994039
+      },
+      "caption": "에이트웍스",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "제작사"
+      },
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 407.0127432458236,
+        "y": 1183.3290318211577
+      },
+      "caption": "1~2시간",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송유형": "시간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 424.5336218587537,
+        "y": 1306.1091995119607
+      },
+      "caption": "종방",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 506.4167670331276,
+        "y": 939.0350928740678
+      },
+      "caption": "2016.01.4~2016.3.1",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 957.7984908396528,
+        "y": 1390.4329284607802
+      },
+      "caption": "치즈인더트랩",
+      "labels": [
+        "OST"
+      ],
+      "properties": {
+        "가수": "스무살",
+        "작곡가": "스무살",
+        "발매일": "16.1.5"
+      },
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 1260.8326425435475,
+        "y": 1087.9928224805365
+      },
+      "caption": "박해진",
+      "labels": [
+        "유정"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": 1299.4637314154113,
+        "y": 1232.1660089020402
+      },
+      "caption": "김고은",
+      "labels": [
+        "홍설"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": 1272.25301346881,
+        "y": 1354.4435639705964
+      },
+      "caption": "서강준",
+      "labels": [
+        "백인호"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 1176.3909714550416,
+        "y": 1430.4137039907594
+      },
+      "caption": "이성경",
+      "labels": [
+        "백인하"
+      ],
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n0",
+      "toId": "n2",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n0",
+      "toId": "n3",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "fromId": "n0",
+      "toId": "n4",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n0",
+      "toId": "n5",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n0",
+      "toId": "n6",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n6",
+      "fromId": "n6",
+      "toId": "n0",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n7",
+      "fromId": "n0",
+      "toId": "n7",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "fromId": "n0",
+      "toId": "n8",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "fromId": "n0",
+      "toId": "n9",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "fromId": "n0",
+      "toId": "n10",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "fromId": "n0",
+      "toId": "n11",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "fromId": "n0",
+      "toId": "n12",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "fromId": "n0",
+      "toId": "n13",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n0",
+      "toId": "n14",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "fromId": "n6",
+      "toId": "n23",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n6",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n6",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n6",
+      "toId": "n18",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n6",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "fromId": "n6",
+      "toId": "n19",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n6",
+      "toId": "n15",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n6",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "fromId": "n6",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "fromId": "n6",
+      "toId": "n24",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "fromId": "n16",
+      "toId": "n25",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "fromId": "n16",
+      "toId": "n26",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "fromId": "n16",
+      "toId": "n27",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n28",
+      "fromId": "n16",
+      "toId": "n28",
+      "type": "",
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  }
+}
