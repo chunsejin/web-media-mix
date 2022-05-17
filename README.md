@@ -18,7 +18,7 @@
 # 사용 도구
 Labelled Property Graph(LPG)를 기반으로 지식 그래프를 작성합니다. 
 
-[arrows.app](https://arrows.app/)을 이용해 (LPG) 기반 지식 그래프를 그려 볼 수 있습니다. Export 형식은 JSON입니다. 
+[arrows.app](https://arrows.app/)을 이용해 (LPG) 기반 지식 그래프를 그려 볼 수 있습니다. Export 형식은 JSON, CYPHER입니다. 
 
 # Slack
 좀더 편안한 분위기에서 소통을 하고 싶다면 [저희 채널](https://oss-zcz2039.slack.com/archives/C038481L8JK)에 참가해 주시기 바랍니다.
