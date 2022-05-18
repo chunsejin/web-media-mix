@@ -26,5 +26,3 @@ Labelled Property Graph(LPG)를 기반으로 지식 그래프를 작성합니다
 # 참고
 현재 아이디어는 성소정, 최소원으로부터 시작되었습니다. 
 
-# 참고 문헌
-- [웹툰캐릭터의 미디어믹스전략에 관한 연구](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=f6c6137ed82e927effe0bdc3ef48d419&keyword=%EB%AF%B8%EB%94%94%EC%96%B4%EB%AF%B9%EC%8A%A4)
