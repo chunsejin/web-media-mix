@@ -1,0 +1,678 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n65",
+      "position": {
+        "x": 2736.644115867071,
+        "y": 421.99935600597087
+      },
+      "caption": "화산귀환",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "평점": "9.9",
+        "조회수": "",
+        "제작사": "네이버 웹툰",
+        "회차수": "현재 59화",
+        "독자수": "",
+        "연령가": "15세 이용가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n66",
+      "position": {
+        "x": 2959.095400840879,
+        "y": 199.54807103216308
+      },
+      "caption": "무림",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n67",
+      "position": {
+        "x": 3035.1044567352837,
+        "y": 302.63180847017634
+      },
+      "caption": "청명",
+      "labels": [
+        "등장인물 이름"
+      ],
+      "properties": {
+        "나이": "15세(1화) > 23세(현재)",
+        "직업": "화산파 13대제자",
+        "역할": "주인공",
+        "성별": "남",
+        "성격": "개차반"
+      },
+      "style": {}
+    },
+    {
+      "id": "n68",
+      "position": {
+        "x": 3058.0895800999324,
+        "y": 421.9993590217538
+      },
+      "caption": "",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "글작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n69",
+      "position": {
+        "x": 2439.57137030272,
+        "y": 299.2191852993857
+      },
+      "caption": "수요일",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n70",
+      "position": {
+        "x": 2558.810817068189,
+        "y": 154.22612300052776
+      },
+      "caption": "부분 유료",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {
+        "가격": "소장 회차당 500원 대여 회차당 300원"
+      },
+      "style": {}
+    },
+    {
+      "id": "n71",
+      "position": {
+        "x": 3058.0895800999324,
+        "y": 1240.8290318211577
+      },
+      "caption": "화산귀환",
+      "labels": [
+        "웹소설"
+      ],
+      "properties": {
+        "독자수": "",
+        "조회수": "2억 9537만",
+        "출판사": "러프 미디어",
+        "연령가": "전체이용가",
+        "평점": "9.52"
+      },
+      "style": {}
+    },
+    {
+      "id": "n72",
+      "position": {
+        "x": 2853.4672587229174,
+        "y": 129.9009108435925
+      },
+      "caption": "고대 중국?",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형 ": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n73",
+      "position": {
+        "x": 2728.943242874553,
+        "y": 107.5
+      },
+      "caption": "무협",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n74",
+      "position": {
+        "x": 2422.05049168979,
+        "y": 421.9993590217538
+      },
+      "caption": "연재중",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n75",
+      "position": {
+        "x": 2439.57137030272,
+        "y": 544.7795267125556
+      },
+      "caption": "주 1회",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 주기"
+      },
+      "style": {}
+    },
+    {
+      "id": "n76",
+      "position": {
+        "x": 2507.2840057400267,
+        "y": 647.2128688296689
+      },
+      "caption": "",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n77",
+      "position": {
+        "x": 2619.820973011225,
+        "y": 714.0978011683485
+      },
+      "caption": "네이버 웹툰",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재처"
+      },
+      "style": {}
+    },
+    {
+      "id": "n78",
+      "position": {
+        "x": 3026.2890330575497,
+        "y": 544.7795267125556
+      },
+      "caption": "비가",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "각색작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n79",
+      "position": {
+        "x": 2956.298439782234,
+        "y": 647.2128688296689
+      },
+      "caption": "LICO",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "그림작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n80",
+      "position": {
+        "x": 3291.1081440867024,
+        "y": 1018.3777438315669
+      },
+      "caption": "무림",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n81",
+      "position": {
+        "x": 3380.24206990978,
+        "y": 1240.8290318211577
+      },
+      "caption": "청명",
+      "labels": [
+        "등장인물 이름"
+      ],
+      "properties": {
+        "나이": "15세(1화) > 23세(현재)",
+        "직업": "화산파 13대제자",
+        "역할": "주인공",
+        "성별": "남",
+        "성격": "개차반"
+      },
+      "style": {}
+    },
+    {
+      "id": "n82",
+      "position": {
+        "x": 3337.0818201676684,
+        "y": 1401.905276726082
+      },
+      "caption": "비가",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "글작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n83",
+      "position": {
+        "x": 2771.5841135485434,
+        "y": 1118.0488580987897
+      },
+      "caption": "매일",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n84",
+      "position": {
+        "x": 3173.284753794179,
+        "y": 1532.9274739677526
+      },
+      "caption": "부분유료",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {
+        "가격": "소장 회차당100원"
+      },
+      "style": {}
+    },
+    {
+      "id": "n85",
+      "position": {
+        "x": 3185.480001968741,
+        "y": 948.7305836429964
+      },
+      "caption": "고대 중국",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형 ": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n86",
+      "position": {
+        "x": 3060.9559861203766,
+        "y": 926.3296727994039
+      },
+      "caption": "무협",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n87",
+      "position": {
+        "x": 2754.0632349356133,
+        "y": 1240.8290318211577
+      },
+      "caption": "연재중",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n88",
+      "position": {
+        "x": 2771.5841135485434,
+        "y": 1363.6091995119607
+      },
+      "caption": "일 1화",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 주기"
+      },
+      "style": {}
+    },
+    {
+      "id": "n89",
+      "position": {
+        "x": 2839.29674898585,
+        "y": 1466.0425416290732
+      },
+      "caption": "2019. 04. 25. ~ 현재",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n90",
+      "position": {
+        "x": 2951.8337162570483,
+        "y": 1532.9274739677526
+      },
+      "caption": "네이버 시리즈",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재처"
+      },
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n64",
+      "fromId": "n65",
+      "toId": "n66",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n65",
+      "fromId": "n65",
+      "toId": "n67",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n66",
+      "fromId": "n65",
+      "toId": "n68",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n67",
+      "fromId": "n65",
+      "toId": "n69",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n68",
+      "fromId": "n65",
+      "toId": "n70",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n69",
+      "type": "원작",
+      "style": {
+        "arrow-color": "#f44e3b"
+      },
+      "properties": {},
+      "fromId": "n65",
+      "toId": "n71"
+    },
+    {
+      "id": "n70",
+      "type": "웹툰화",
+      "style": {
+        "arrow-color": "#f44e3b"
+      },
+      "properties": {},
+      "fromId": "n71",
+      "toId": "n65"
+    },
+    {
+      "id": "n71",
+      "fromId": "n65",
+      "toId": "n72",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n72",
+      "fromId": "n65",
+      "toId": "n73",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n73",
+      "fromId": "n65",
+      "toId": "n74",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n74",
+      "fromId": "n65",
+      "toId": "n75",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n75",
+      "fromId": "n65",
+      "toId": "n76",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n76",
+      "fromId": "n65",
+      "toId": "n77",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n77",
+      "fromId": "n65",
+      "toId": "n78",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n78",
+      "fromId": "n65",
+      "toId": "n79",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n79",
+      "fromId": "n71",
+      "toId": "n90",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n80",
+      "fromId": "n71",
+      "toId": "n89",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n81",
+      "fromId": "n71",
+      "toId": "n88",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n82",
+      "fromId": "n71",
+      "toId": "n87",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n83",
+      "fromId": "n71",
+      "toId": "n83",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n84",
+      "fromId": "n71",
+      "toId": "n84",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n85",
+      "fromId": "n71",
+      "toId": "n86",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n86",
+      "fromId": "n71",
+      "toId": "n85",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n87",
+      "fromId": "n71",
+      "toId": "n80",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n88",
+      "fromId": "n71",
+      "toId": "n81",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n89",
+      "fromId": "n71",
+      "toId": "n82",
+      "type": "",
+      "properties": {},
+      "style": {}
+    }
+  ]
+}
