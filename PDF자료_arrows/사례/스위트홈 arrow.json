@@ -1,0 +1,655 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": 41.6389430445643,
+        "y": 25.859239532551506
+      },
+      "caption": "스위트홈",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "소개": "폐쇄된 공간에서 식인괴물들과 싸우다.",
+        "평점": "9.95",
+        "연령대": "15세 이용가",
+        "회차수": "141화",
+        "연재처 ": "네이버"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 64.77061761120765,
+        "y": -95.184164905937
+      },
+      "caption": "목요일",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재유형": "연재일"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 161.08820005355537,
+        "y": -47.29790377325287
+      },
+      "caption": "종결",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재유형": "연재 상태"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 164,
+        "y": 40.50000000000004
+      },
+      "caption": "스릴러",
+      "labels": [
+        "장르"
+      ],
+      "properties": {
+        "장르": "웹툰장르"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 161.08820005355537,
+        "y": 155.9993895399452
+      },
+      "caption": "김칸비",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가": "스토리"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 93.02307257603151,
+        "y": 194.8688690695703
+      },
+      "caption": "황영찬",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가": "작화"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": -77.81031396442677,
+        "y": 155.9993895399452
+      },
+      "caption": "무료",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {
+        "비용": "웹툰 비용"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": -116.06953975502356,
+        "y": 42.499389539945255
+      },
+      "caption": "현재",
+      "labels": [
+        "시대"
+      ],
+      "properties": {
+        "시대": "웹툰 시대"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": -4.082347726399398,
+        "y": 226.80669326554124
+      },
+      "caption": "2017/10/13 ~ 2020/7/3",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재유형": "연재 기간"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": -49.04111007168568,
+        "y": -131.2032196978379
+      },
+      "caption": "주 1회",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재유형": "연재일"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 118.46945793768454,
+        "y": -376.179404951749
+      },
+      "caption": "스위트홈",
+      "labels": [
+        "드라마"
+      ],
+      "properties": {
+        "소개": "폐쇄된 공간에서 식인괴물들과 싸우다.",
+        "회차수": "10화",
+        "플랫폼": "넷플릭스",
+        "연령대": "청소년 관람불가",
+        "제작비": "300억원"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": -3.559132705653454,
+        "y": -446.6326446085108
+      },
+      "caption": "공포 스릴러",
+      "labels": [
+        "장르"
+      ],
+      "properties": {
+        "방송유형": "장르"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 93.02307257603151,
+        "y": -514.7691498268974
+      },
+      "caption": "넷플릭스 가입 후 무료",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {
+        "방송유형": "비용"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 218.10538497339914,
+        "y": -475.8153319874636
+      },
+      "caption": "10부작",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송유형": "회수"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 259.37593725120826,
+        "y": -376.179404951749
+      },
+      "caption": "식인괴물",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드": "유형"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 221.62015991083686,
+        "y": -273.0287029785967
+      },
+      "caption": "이용복외 2인",
+      "labels": [
+        "제작진"
+      ],
+      "properties": {
+        "제작진": "제작"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": -16.660326792963602,
+        "y": -321.2241876038313
+      },
+      "caption": "종영",
+      "labels": [
+        "방송"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 149.92550786487948,
+        "y": -204.85896504520352
+      },
+      "caption": "1시간~1시간반",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송유형": "연재기간"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 546.650628239761,
+        "y": -550.3141401260846
+      },
+      "caption": "출연진",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 516.1869043772052,
+        "y": -407.56712567578927
+      },
+      "caption": "고민시",
+      "labels": [
+        "이은유"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 606.5111675868152,
+        "y": -446.6326446085108
+      },
+      "caption": "이시영",
+      "labels": [
+        "서이경"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 688.2179347433373,
+        "y": -514.7691498268974
+      },
+      "caption": "이진욱",
+      "labels": [
+        "편상욱"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 650.3321237573342,
+        "y": -610.1746794731384
+      },
+      "caption": "송강",
+      "labels": [
+        "지현수"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 546.650628239761,
+        "y": -670.0352188201923
+      },
+      "caption": "이도현",
+      "labels": [
+        "이은혁"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n0",
+      "toId": "n2",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n0",
+      "toId": "n3",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "fromId": "n0",
+      "toId": "n4",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n0",
+      "toId": "n5",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n0",
+      "toId": "n6",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "fromId": "n0",
+      "toId": "n7",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "fromId": "n0",
+      "toId": "n8",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "fromId": "n0",
+      "toId": "n9",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "fromId": "n0",
+      "toId": "n10",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n10",
+      "fromId": "n10",
+      "toId": "n11",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "fromId": "n10",
+      "toId": "n12",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "fromId": "n10",
+      "toId": "n13",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "fromId": "n10",
+      "toId": "n14",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n10",
+      "toId": "n15",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "fromId": "n10",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n10",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n10",
+      "toId": "n18",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n18",
+      "toId": "n19",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n10",
+      "toId": "n0",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n20",
+      "fromId": "n18",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n18",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n18",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "fromId": "n18",
+      "toId": "n23",
+      "type": "",
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  }
+}
