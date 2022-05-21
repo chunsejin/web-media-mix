@@ -1,0 +1,775 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "position": {
+        "x": 1520.065181565095,
+        "y": 1181.16593080292
+      },
+      "caption": "신의 탑",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "소개": "자신의 모든 것이었던 소녀를 쫓아 탑에 들어온 소년 그리고 그런 소년을 시험하는 탑",
+        "평점": "9.90",
+        "조회수": "",
+        "제작사": "네이버 웹툰",
+        "회차수": "네이버 시리즈 기준 543화",
+        "독자수": "",
+        "연령가": "12세 이용가"
+      },
+      "style": {
+        "property-font-size": 12
+      }
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 1742.516466538903,
+        "y": 958.7146458291122
+      },
+      "caption": "탑",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 1818.5255224333077,
+        "y": 1061.7983832671255
+      },
+      "caption": "스물 다섯번째 밤",
+      "labels": [
+        "등장인물 이름"
+      ],
+      "properties": {
+        "나이": "알수 없음",
+        "직업": "탑 선별인원",
+        "역할": "주인공",
+        "성별": "남",
+        "성격": "순수"
+      },
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 1841.5106457979564,
+        "y": 1181.1659338187028
+      },
+      "caption": "SIU",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "글작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 1222.992436000744,
+        "y": 1058.3857600963347
+      },
+      "caption": "월요일",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 1342.231882766213,
+        "y": 913.3926977974769
+      },
+      "caption": "부분유료",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {
+        "가격": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 1818.5255224333077,
+        "y": 2094.230893282213
+      },
+      "caption": "신의 탑 -Tower of God-",
+      "labels": [
+        "애니메이션"
+      ],
+      "properties": {
+        "소개": "정상에 다다르기만 하면 원하는 것을 얻을 수 있다는 탑. 저마다 무언가를 소망하며 그 정상을 향해 오르는 사람들. 하지만 다음 층으로 올라가려면 주어진 시험을 반드시 통과해야 한다.",
+        "원작작가": "SIU",
+        "시청등급": "15세 이용가",
+        "회차수": "13화",
+        "시청률": "",
+        "평점": "",
+        "배급사": "넷플릭스"
+      },
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 1636.8883244209414,
+        "y": 889.0674856405417
+      },
+      "caption": "알 수 없음",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형 ": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 1512.364308572577,
+        "y": 866.6665747969491
+      },
+      "caption": "판타지",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 1205.4715573878138,
+        "y": 1181.1659338187028
+      },
+      "caption": "연재중",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 1168.1753038826466,
+        "y": 1321.9023233816977
+      },
+      "caption": "주 1회",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 주기"
+      },
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 1290.7050714380507,
+        "y": 1406.379443626618
+      },
+      "caption": "2010/6/30 ~ 현재",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 1403.2420387092488,
+        "y": 1473.2643759652976
+      },
+      "caption": "네이버 웹툰",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재처"
+      },
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 1536.318235465301,
+        "y": 1502.2002353792327
+      },
+      "caption": "SIU",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "그림작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 2079.796501332158,
+        "y": 1906.641091187018
+      },
+      "caption": "탑",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 2100.732809401315,
+        "y": 2349.6376775809804
+      },
+      "caption": "김명준",
+      "labels": [
+        "성우"
+      ],
+      "properties": {
+        "배역": "스물 다섯번째 밤"
+      },
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 2134.1147719126943,
+        "y": 2032.135129514339
+      },
+      "caption": "신의 탑 애니메이션 파트너스",
+      "labels": [
+        "제조사"
+      ],
+      "properties": {
+        "담당": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 1606.0650366773084,
+        "y": 1852.750044647787
+      },
+      "caption": "완결",
+      "labels": [
+        "방영"
+      ],
+      "properties": {
+        "방영 유형": "요일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 1962.8255512616993,
+        "y": 1842.0188464875457
+      },
+      "caption": "알수 없음",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형 ": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 1841.7644375704056,
+        "y": 1804.5873749851849
+      },
+      "caption": "판타지",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 1502.9362729539216,
+        "y": 2032.135129514339
+      },
+      "caption": "완결",
+      "labels": [
+        "방영"
+      ],
+      "properties": {
+        "방영 유형": "시간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 1536.318235465301,
+        "y": 2349.6376775809804
+      },
+      "caption": "완결",
+      "labels": [
+        "방영"
+      ],
+      "properties": {
+        "방영 유형": "상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 1942.1585737867042,
+        "y": 2454.2148469478293
+      },
+      "caption": "TOP",
+      "labels": [
+        "OST"
+      ],
+      "properties": {
+        "가수": "Stray Kids",
+        "작곡가": "방찬,창빈,한,아르마딜로,권영찬",
+        "발매일": "2020년 5월 13일 (수) 18:00"
+      },
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 1694.892471079912,
+        "y": 2454.2148469478293
+      },
+      "caption": "넷플릭스 결재자 한정 무료",
+      "labels": [
+        "가격"
+      ],
+      "properties": {
+        "유/무료": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n49",
+      "position": {
+        "x": 2585.027318136487,
+        "y": 1537.2537355499076
+      },
+      "caption": "신의 탑M",
+      "labels": [
+        "게임"
+      ],
+      "properties": {
+        "연령가 ": "청소년 아용가",
+        "개발자": "NGELGAMES",
+        "유통사": "NGELGAMES",
+        "운영사": "NGELGAMES",
+        "플랫폼": "모바일",
+        "장르": "롤플레잉",
+        "평점": "2.6",
+        "가격": "부분유료화",
+        "서비스 상태": "서비스 중",
+        "출시일": "2022/4/18",
+        "원작작가": "SIU",
+        "소개": "전 세계 45억뷰 RPG  신의 탑에 오신걸 환영합니다. 전 세계  45억 뷰 신화, 그 위대한 탑의 세계 이제부터 밤이 되어 위대한 여정을 떠나보세요"
+      },
+      "style": {}
+    },
+    {
+      "id": "n50",
+      "position": {
+        "x": 2473.9532927287664,
+        "y": 1344.86788014254
+      },
+      "caption": "신용우",
+      "labels": [
+        "성우"
+      ],
+      "properties": {
+        "배역": "스물 다섯번째 밤"
+      },
+      "style": {}
+    },
+    {
+      "id": "n51",
+      "position": {
+        "x": 2696.1013435442032,
+        "y": 1729.6395909572689
+      },
+      "caption": "Going up Now",
+      "labels": [
+        "OST"
+      ],
+      "properties": {
+        "가수": " Riyou",
+        "발매일": "2021/11/22",
+        "작곡가": "Nthonius",
+        "작사가": "Nthonius"
+      },
+      "style": {}
+    },
+    {
+      "id": "n52",
+      "position": {
+        "x": 2420.0194332087203,
+        "y": 1852.750044647787
+      },
+      "caption": "러버스트랩",
+      "labels": [
+        "굿즈"
+      ],
+      "properties": {
+        "이름": "[신의탑] 러버스트랩 2탄",
+        "용도": "러버스트랩",
+        "관련인물": "스물 다섯번째 밤, 라헬, 쿤, 자왕난",
+        "작품장르": "판타지",
+        "원작작가": "SIU",
+        "재고유무": "라헬외 품절",
+        "디자인": "",
+        "사용연령": "",
+        "소재": "PVC/RUBBER",
+        "제조사": "(주)풍년",
+        "제조국": "중국"
+      },
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n1",
+      "toId": "n2",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n1",
+      "toId": "n3",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n1",
+      "toId": "n4",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "fromId": "n1",
+      "toId": "n5",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n1",
+      "toId": "n6",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n1",
+      "toId": "n7",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n6",
+      "fromId": "n7",
+      "toId": "n1",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n7",
+      "fromId": "n1",
+      "toId": "n8",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "fromId": "n1",
+      "toId": "n9",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "fromId": "n1",
+      "toId": "n10",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "fromId": "n1",
+      "toId": "n11",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "fromId": "n1",
+      "toId": "n12",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "fromId": "n1",
+      "toId": "n13",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n1",
+      "toId": "n15",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "fromId": "n7",
+      "toId": "n23",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n7",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n7",
+      "toId": "n19",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n7",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n7",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "fromId": "n7",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n7",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n7",
+      "toId": "n18",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "fromId": "n7",
+      "toId": "n24",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "fromId": "n7",
+      "toId": "n25",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n46",
+      "fromId": "n49",
+      "toId": "n50",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n47",
+      "fromId": "n49",
+      "toId": "n51",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n68",
+      "fromId": "n1",
+      "toId": "n52",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n69",
+      "fromId": "n52",
+      "toId": "n1",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n70",
+      "fromId": "n49",
+      "toId": "n1",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n71",
+      "fromId": "n1",
+      "toId": "n49",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    }
+  ]
+}
