@@ -14,6 +14,8 @@
 * LPG 개념 정의
 * LPG와 RDF차이
 * 지식그래프 구성요소
+* Neo4j 개념 정의
+* Neo4j 명령어
 * Neo4j에서 JSON 여는 방법
 * LPG 그래프 작성법
   
