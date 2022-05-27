@@ -71,7 +71,6 @@
 * 지금 우리 학교는
 * 스위트 홈
 * 시동
-* 
 
 > [사례 분류](https://github.com/chunsejin/web-media-mix/blob/main/PDF%EC%9E%90%EB%A3%8C_arrows/%EC%82%AC%EB%A1%80/%EC%82%AC%EB%A1%80%20%EC%A0%81%EC%9A%A9%20%EB%AA%A8%EC%9D%8C.md)
   
