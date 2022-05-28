@@ -1,0 +1,19 @@
+---
+name: information_share template
+about: Share helpful information
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**개요** <br>
+공유하고자 하는 정보에 대해 간략히 소개합니다.
+
+**설명** <br>자세한 설명, 정보에 대한 링크를 첨부 가능
+
+**요약** <br> 설명에 대한 간단한 요약
+
+
+
+
