@@ -5,7 +5,7 @@
 > * Readme 정리
 
 <details>
-<summary> wiki 작업 내용</summary>
+<summary> Wiki 작업 내용</summary>
 <div markdown="1">
   
 * 미디어믹스, 메타데이터, 원소스멀티유즈, 트랜스 미디어, 지식그래프
@@ -15,7 +15,7 @@
 * 그래프 데이터베이스
 * 미디어 변형 유형
 * Neo4j 개념 정의, 명령어, JSON 파일 열기
-  
+> [작업 내용](https://github.com/chunsejin/web-media-mix/wiki)
 </div>
 </details>
   
@@ -29,6 +29,7 @@
 <div markdown="1">
 
 * 웹소설>웹툰
+* 웹소설>드라마
 * 웹툰>드라마
 * 웹툰>게임
 * 웹툰>굿즈
@@ -36,7 +37,7 @@
 * 웹툰>영화
 * 웹툰>애니메이션
 * 웹툰>뮤지컬
-  
+
 </div>
 </details>
   
@@ -71,8 +72,13 @@
 * 지금 우리 학교는
 * 스위트 홈
 * 시동
+* 은밀하게 위대하게
+* 대학일기
 
 > [사례 분류](https://github.com/chunsejin/web-media-mix/blob/main/PDF%EC%9E%90%EB%A3%8C_arrows/%EC%82%AC%EB%A1%80/%EC%82%AC%EB%A1%80%20%EC%A0%81%EC%9A%A9%20%EB%AA%A8%EC%9D%8C.md)
+  
+
+  
   
 </div>
 </details>
