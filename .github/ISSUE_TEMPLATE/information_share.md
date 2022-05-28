@@ -1,6 +1,6 @@
 ---
-name: information_share template
-about: Share helpful information
+name: 정보 공유
+about: 프로젝트에 도움이 되는 정보를 공유
 title: ''
 labels: ''
 assignees: ''
