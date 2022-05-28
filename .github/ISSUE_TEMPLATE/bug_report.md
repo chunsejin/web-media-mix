@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: 버그 제보
+about: 버그 제보는 프로젝트의 질을 높여줍니다.
 title: ''
 labels: ''
 assignees: ''
