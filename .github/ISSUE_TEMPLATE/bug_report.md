@@ -1,18 +1,38 @@
-**버그 설명**<br>
-버그에 대한 명확하고 간결한 설명
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-**버그 생성 과정**<br>
-버그가 생기게 된 과정
+---
 
-**예상 행동**<br>
-버그가 생성되지 않았다면 수행됐을 사항에 대한 명확하고 간결한 설명
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**스크린샷**<br>
-스크린샷이 첨부 가능하다면, 첨부하는게 버그 제보에 도움이 됩니다.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**사용하는 기종**
- - OS: 
- - Browser: 
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-**추가 설명**<br>
-문제에 대한 추가 설명을 여기 적으세요.
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
