@@ -15,7 +15,7 @@
 * 그래프 데이터베이스
 * 미디어 변형 유형
 * Neo4j 개념 정의, 명령어, JSON 파일 열기
-> [작업 내용](https://github.com/chunsejin/web-media-mix/wiki)
+
 </div>
 </details>
   
