@@ -1,0 +1,253 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n18",
+      "position": {
+        "x": 3189.4153752641905,
+        "y": 407.2044631234503
+      },
+      "caption": "",
+      "labels": [
+        "만화책"
+      ],
+      "properties": {
+        "제목": "",
+        "권수": "",
+        "연재 기간": "",
+        "출판사": "",
+        "연재처": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 3397.715375264187,
+        "y": 198.9044631234533
+      },
+      "caption": "",
+      "labels": [
+        "등장인물"
+      ],
+      "properties": {
+        "이름": "",
+        "나이": "",
+        "직업": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 2902.358135510867,
+        "y": 341.0537178124541
+      },
+      "caption": "",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "글작가": "",
+        "그림작가": "",
+        "각색작가": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 3108.1609701186812,
+        "y": 124.05167460733912
+      },
+      "caption": "",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "장르": "",
+        "배경": "",
+        "시대": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 3906.663548865259,
+        "y": 424.88795688422937
+      },
+      "caption": "",
+      "style": {},
+      "labels": [
+        "Vomic"
+      ],
+      "properties": {
+        "제목": "",
+        "회차수": "",
+        "원작 만화": "",
+        "방송사": ""
+      }
+    },
+    {
+      "id": "n31",
+      "position": {
+        "x": 4065.9329279525637,
+        "y": 233.73124933938539
+      },
+      "caption": "",
+      "style": {},
+      "labels": [
+        "등장인물"
+      ],
+      "properties": {
+        "이름": "",
+        "나이": "",
+        "직업": ""
+      }
+    },
+    {
+      "id": "n32",
+      "position": {
+        "x": 3782.257337249601,
+        "y": 209.4100775887427
+      },
+      "caption": "",
+      "style": {},
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "장르": "",
+        "배경": "",
+        "시대": ""
+      }
+    },
+    {
+      "id": "n33",
+      "position": {
+        "x": 4154.118753627992,
+        "y": 450.8406752403976
+      },
+      "caption": "",
+      "style": {},
+      "labels": [
+        "성우"
+      ],
+      "properties": {
+        "이름": "",
+        "배역": ""
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n13",
+      "fromId": "n19",
+      "toId": "n18",
+      "type": "등장",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n20",
+      "toId": "n18",
+      "type": "창작",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n18",
+      "toId": "n29",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n30",
+      "toId": "n31"
+    },
+    {
+      "id": "n24",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n30",
+      "toId": "n32"
+    },
+    {
+      "id": "n25",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n30",
+      "toId": "n33"
+    },
+    {
+      "id": "n26",
+      "type": "만화책을 Vomic으로",
+      "style": {},
+      "properties": {},
+      "fromId": "n18",
+      "toId": "n30"
+    }
+  ]
+}
