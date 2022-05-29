@@ -67,7 +67,8 @@ https://drive.google.com/file/d/17X-8BmjjvgHodqZy2Cw3wBSL2S4UriTd/view?usp=shari
 https://arrows.app/#/googledrive/ids=1XKhbyJwf0B5RcyZTLbrHPDnwrNiwh8CI
 
   
-![미디어믹스(웹소설_드라마)](https://user-images.githubusercontent.com/90401682/170872612-70370770-b194-401b-91ef-a014d13f573d.png)
+
+![웹소설_드라마](https://user-images.githubusercontent.com/90401682/170872980-741806d1-4b73-41e1-9ffd-d0bda428c4f7.png)
 
 
 
