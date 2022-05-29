@@ -2,7 +2,7 @@
 name: Wiki
 about: Wiki 관련 Issue 입니다.
 title: ''
-labels: 'Wiki'
+labels: 'wiki'
 assignees: ''
 
 ---
