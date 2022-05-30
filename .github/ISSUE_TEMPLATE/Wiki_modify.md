@@ -6,8 +6,9 @@ labels: 'wiki'
 assignees: ''
 
 ---
-
+# 수정 내용
 * 수정 페이지 : 
+
 
 # 수정 이유
 
