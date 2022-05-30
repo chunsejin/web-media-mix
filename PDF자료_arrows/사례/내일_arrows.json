@@ -1,0 +1,633 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "position": {
+        "x": 166.97526904562392,
+        "y": 172.80922070601082
+      },
+      "caption": "일요일",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 129,
+        "y": 307.77472364601607
+      },
+      "caption": "연재중",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 261.9035486538046,
+        "y": 54.88777648557968
+      },
+      "caption": "무료",
+      "labels": [
+        "유/뮤료"
+      ],
+      "properties": {
+        "가격": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 449.0691990670199,
+        "y": 325.00734884027224
+      },
+      "caption": "내일",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "소개": "저승사자들이 사람들의 자살을 막는 이야기",
+        "평점": "9.98",
+        "조회수": "",
+        "제작사": "알에이치코리아",
+        "회차수": "244",
+        "독자수": "",
+        "연령가": "전체 이용가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 129,
+        "y": 438.0370014935477
+      },
+      "caption": "주 1회",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 주기"
+      },
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 166.97526904562392,
+        "y": 560.5848419445891
+      },
+      "caption": "시즌1: 2017.5.20 ~ 2021.2.20  시즌2: 2021.5.1 ~ 연재중",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 397.8630511340462,
+        "y": -4
+      },
+      "caption": "판타지, 드라마",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 279.69139589897395,
+        "y": 648.0908187832107
+      },
+      "caption": "네이버 웹툰",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재처"
+      },
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 532.5806292991688,
+        "y": -4
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 654.6304094186853,
+        "y": 54.88777648557968
+      },
+      "caption": "이승, 저승",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 752.476061815295,
+        "y": 172.80922070601082
+      },
+      "caption": "최준웅",
+      "labels": [
+        "등장인물 이름"
+      ],
+      "properties": {
+        "나이": "1991년생",
+        "직업": "취준생이자 저승사자 계약직",
+        "역할": "주인공",
+        "성별": "남",
+        "성격": "철이 없음, 따뜻함"
+      },
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 752.476061815295,
+        "y": 451.2604268262497
+      },
+      "caption": "라마",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "그림작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 788.0721949228648,
+        "y": 307.77472364601607
+      },
+      "caption": "라마",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "글작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 843.5357663600056,
+        "y": 1086.0464625015456
+      },
+      "caption": "내일",
+      "labels": [
+        "드라마"
+      ],
+      "properties": {
+        "소개": "저승사자들이 죽고싶어하는 사람들을 살리는 이야기",
+        "원작작가": "라마",
+        "시청등급": "15세 이상",
+        "회차수": "16부작",
+        "시청률": "최고: 7.6",
+        "평점": "",
+        "배급사": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 934.497425570237,
+        "y": 781.6048896919291
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 1127.6759072518248,
+        "y": 1186.030473168228
+      },
+      "caption": "로운",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "배역": "최준웅"
+      },
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 1066.9396547963504,
+        "y": 1311.9875993770436
+      },
+      "caption": "Red Light",
+      "labels": [
+        "OST"
+      ],
+      "properties": {
+        "가수": "이승협",
+        "작곡가": "박수석,서지은.MoonKim",
+        "발매일": "2022.4.2"
+      },
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 1127.6759072518248,
+        "y": 1013.7621445580209
+      },
+      "caption": "김태윤,성치욱",
+      "labels": [
+        "제작진"
+      ],
+      "properties": {
+        "담당": "연출"
+      },
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 1057.3866599993114,
+        "y": 875.799243757985
+      },
+      "caption": "이승,저승",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 788.0721949228648,
+        "y": 781.6048896919291
+      },
+      "caption": "휴먼,판타지,오피스,액션",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 558.481760216535,
+        "y": 953.2987309556904
+      },
+      "caption": "2022.4.1 ~ 2022.5.21",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송유형": "기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 532.5806292991688,
+        "y": 1099.8963088631244
+      },
+      "caption": "금요일 , 토요일",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "요일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 581.4480658946605,
+        "y": 1250.5788795996466
+      },
+      "caption": "9시 50분 ~",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "시간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 654.6304094186853,
+        "y": 1389.965001922928
+      },
+      "caption": "방영중",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "상태"
+      },
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n4",
+      "toId": "n3",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n4",
+      "toId": "n1",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n4",
+      "toId": "n2",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "fromId": "n4",
+      "toId": "n5",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n4",
+      "toId": "n6",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n4",
+      "toId": "n8",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "fromId": "n4",
+      "toId": "n7",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "fromId": "n4",
+      "toId": "n9",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "fromId": "n4",
+      "toId": "n10",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "fromId": "n4",
+      "toId": "n11",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "fromId": "n4",
+      "toId": "n13",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "fromId": "n4",
+      "toId": "n12",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "fromId": "n4",
+      "toId": "n14",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n13",
+      "fromId": "n14",
+      "toId": "n4",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n14",
+      "fromId": "n14",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "fromId": "n14",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n14",
+      "toId": "n23",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n14",
+      "toId": "n24",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n14",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n14",
+      "toId": "n15",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "fromId": "n14",
+      "toId": "n19",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n14",
+      "toId": "n18",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n14",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "fromId": "n14",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  }
+}
