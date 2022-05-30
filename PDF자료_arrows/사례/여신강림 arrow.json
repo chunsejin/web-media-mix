@@ -1,0 +1,548 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": 34.34997950303241,
+        "y": -70.7912016629914
+      },
+      "caption": "여신강림",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "평점": "9.44",
+        "관심": "1,412,657",
+        "제작사": "네이버 웹툰",
+        "연령가": "12세 이용가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 209.38030783472803,
+        "y": 464.5494414135306
+      },
+      "caption": "여신강림",
+      "labels": [
+        "드라마"
+      ],
+      "properties": {
+        "소개": "로맨틱 코미디",
+        "제작사": "스튜디오N,본팩토리",
+        "회차수": "16부작",
+        "시청률": "4.6",
+        "연령가": "15세이상",
+        "편성": "tvn"
+      },
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": -293.27821928987936,
+        "y": -222.41630301923854
+      },
+      "caption": "무료",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": -96.48292475743362,
+        "y": -351.13957708903285
+      },
+      "caption": "순정, 로맨스, 드라마",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 61.73970810280083,
+        "y": -259.53385752739297
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": -180.41127222692106,
+        "y": 100
+      },
+      "caption": "주 1회 연재중",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": -116.76718105003522,
+        "y": 219.63306894748519
+      },
+      "caption": "18.04.02~",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 22.94035913191621,
+        "y": 178.48610961605198
+      },
+      "caption": "네이버 웹툰, 네이버 시리즈",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재처"
+      },
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 223.62094515170173,
+        "y": -234.75298371687276
+      },
+      "caption": "임주경",
+      "labels": [
+        "등장인물 이름"
+      ],
+      "properties": {
+        "나이": "",
+        "직업": "학생(이야기의 시작)",
+        "역할": "주인공",
+        "성별": "여",
+        "성격": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 223.62094515170173,
+        "y": -94.25370233826297
+      },
+      "caption": "야옹이(김나영)",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "글작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": -252.864180935037,
+        "y": -35.187418430150274
+      },
+      "caption": "화요일",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 223.62094515170173,
+        "y": 23.878865477962393
+      },
+      "caption": "야옹이(김나영)",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "그림작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 402.303174254687,
+        "y": 353.16537255313295
+      },
+      "caption": "수요일, 목요일",
+      "labels": [
+        "방영일"
+      ],
+      "properties": {
+        "방영유형": "방영일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 558.9018938470674,
+        "y": 430.0651683833901
+      },
+      "caption": "로맨틱코미디, 학원물, 외모지상주의",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 558.9018938470674,
+        "y": 682.7234895507775
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 335.34315325695786,
+        "y": 682.7234895507775
+      },
+      "caption": "주 2회",
+      "labels": [
+        "방영"
+      ],
+      "properties": {
+        "방영유형": "방영 주기"
+      },
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 133.39950626957614,
+        "y": 743.344201726258
+      },
+      "caption": "20.12.9~21.2.4",
+      "labels": [
+        "방영"
+      ],
+      "properties": {
+        "방영유형": "방영기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 769.5063279207963,
+        "y": 523.5753813723878
+      },
+      "caption": "등장인물 이름",
+      "labels": [
+        "배우"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 1074.7640959101977,
+        "y": 490.5781502347389
+      },
+      "caption": "임주경",
+      "labels": [
+        "문가영"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 913.9385513381723,
+        "y": 328.2676531032648
+      },
+      "caption": "이수호",
+      "labels": [
+        "차은우"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 941.2703752108686,
+        "y": 695.3394286624601
+      },
+      "caption": "한서준",
+      "labels": [
+        "황인엽"
+      ],
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n0",
+      "toId": "n2",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n0",
+      "toId": "n3",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n0",
+      "toId": "n4",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n0",
+      "toId": "n6",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n0",
+      "toId": "n7",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "fromId": "n0",
+      "toId": "n8",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "fromId": "n0",
+      "toId": "n9",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "fromId": "n0",
+      "toId": "n10",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "fromId": "n0",
+      "toId": "n11",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "fromId": "n0",
+      "toId": "n13",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "드라마화",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n12",
+      "fromId": "n1",
+      "toId": "n0",
+      "type": "웹툰화",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n13",
+      "fromId": "n1",
+      "toId": "n14",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n1",
+      "toId": "n15",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "fromId": "n1",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n1",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n1",
+      "toId": "n18",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n1",
+      "toId": "n19",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n19",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "fromId": "n19",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n19",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  }
+}
