@@ -1,0 +1,745 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "position": {
+        "x": -57.92924227012336,
+        "y": 206.9751017653356
+      },
+      "caption": "지금우리학교는 ",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "소개": "좀비가 점령한 학교에서 탈출하라",
+        "평점": "9.73",
+        "연령대": "청소년 관람불가",
+        "회차수": "14회"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 34.258366728586225,
+        "y": 98.90856206957872
+      },
+      "caption": "유동근",
+      "labels": [
+        "작가 "
+      ],
+      "properties": {
+        "웹툰": "작가"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": -21.729724422520178,
+        "y": 44.86589790456463
+      },
+      "caption": "스릴러",
+      "labels": [
+        "장르"
+      ],
+      "properties": {
+        "장르": "웹툰 장르"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": -111.81253099686185,
+        "y": 58.52359130477112
+      },
+      "caption": "완결",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": -206.88739953601333,
+        "y": 133.48179286770647
+      },
+      "caption": "주 1회",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재주기"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": -171.86265203775008,
+        "y": 86.10749978906571
+      },
+      "caption": "수요일",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 71.83441216800588,
+        "y": 183.91659356473068
+      },
+      "caption": "청소년관람불가",
+      "labels": [
+        "연령대"
+      ],
+      "properties": {
+        "웹툰": "연령대"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 76.35435764764046,
+        "y": 273.22824472699176
+      },
+      "caption": "네이버",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재장소"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 7.968976244445759,
+        "y": 321.11416436084534
+      },
+      "caption": "무료",
+      "labels": [
+        "유/무료"
+      ],
+      "properties": {
+        "비용": "웹툰 비용"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": -57.92924227012336,
+        "y": 364.90312259138204
+      },
+      "caption": "현대",
+      "labels": [
+        "시대"
+      ],
+      "properties": {
+        "시대": "웹툰 시대"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": -111.81253099686185,
+        "y": 321.11416436084534
+      },
+      "caption": "2009/5/13~2011/11/9",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 기간"
+      },
+      "style": {
+        "caption-font-size": 33,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 167.72183745078192,
+        "y": -138.7871405767531
+      },
+      "caption": "지금우리학교는",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "소개": "좀비가점령한 학교에서 탈출하라",
+        "평점": "",
+        "제작사": "SLL중앙",
+        "회차수": "12부작",
+        "연령대": "청소년 관람불가"
+      },
+      "style": {
+        "label-font-size": 50,
+        "radius": 30
+      }
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 68.38262646681542,
+        "y": -260.7640580135353
+      },
+      "caption": "넷플릭스",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": " 플랫폼"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 138.48931664829496,
+        "y": -266.1506808934113
+      },
+      "caption": "종영",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "상태"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 227.53774587634635,
+        "y": -266.1506808934113
+      },
+      "caption": "박철수 외2명 ",
+      "labels": [
+        "제작진"
+      ],
+      "properties": {
+        "제작진": "제작"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 314.86252015481926,
+        "y": -206.26674392603172
+      },
+      "caption": "이재규 김남수",
+      "labels": [
+        "연출"
+      ],
+      "properties": {
+        "제작진": "제작"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 327.6560304644955,
+        "y": -135.63744677040538
+      },
+      "caption": "좀비",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": ""
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 176.18616909910855,
+        "y": -28.66651711028473
+      },
+      "caption": "1시간15분",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "시간"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 270.86957849958304,
+        "y": -35.63939952795195
+      },
+      "caption": "12부작",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송유형": "회차수"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 314.86252015481926,
+        "y": -76.02978117236668
+      },
+      "caption": "청소년 관람불가",
+      "labels": [
+        "연령대"
+      ],
+      "properties": {
+        "방송": "연령대"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 314.86252015481926,
+        "y": 119.3267006428976
+      },
+      "caption": "",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "출연": "배역"
+      },
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 440.82491685165365,
+        "y": 98.90856206957872
+      },
+      "caption": "조이현",
+      "labels": [
+        "최남라"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 434.7831366344592,
+        "y": 188.56290084880357
+      },
+      "caption": "윤찬영",
+      "labels": [
+        "이청산"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": 349.47594634947535,
+        "y": 242.14907845523692
+      },
+      "caption": "박지후",
+      "labels": [
+        "남온조"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": 412.77729349319037,
+        "y": 21.4119273045265
+      },
+      "caption": "로몬",
+      "labels": [
+        "이수혁"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 270.86957849958304,
+        "y": 239.11003357752963
+      },
+      "caption": "이유미",
+      "labels": [
+        "이나연"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 227.53774587634635,
+        "y": 133.48179286770647
+      },
+      "caption": "함성민",
+      "labels": [
+        "한경수"
+      ],
+      "properties": {},
+      "style": {
+        "radius": 30
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n1",
+      "toId": "n3",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n1",
+      "toId": "n4",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n1",
+      "toId": "n5",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n1",
+      "toId": "n7",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n1",
+      "toId": "n8",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "fromId": "n1",
+      "toId": "n9",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "fromId": "n1",
+      "toId": "n10",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "fromId": "n1",
+      "toId": "n11",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "fromId": "n1",
+      "toId": "n12",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "fromId": "n1",
+      "toId": "n13",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "fromId": "n1",
+      "toId": "n14",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fe9200"
+      }
+    },
+    {
+      "id": "n12",
+      "fromId": "n14",
+      "toId": "n1",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fe9200"
+      }
+    },
+    {
+      "id": "n13",
+      "fromId": "n14",
+      "toId": "n15",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n14",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "fromId": "n14",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n14",
+      "toId": "n18",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n14",
+      "toId": "n19",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n14",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n14",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "fromId": "n14",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n14",
+      "toId": "n23",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n23",
+      "toId": "n24",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "fromId": "n23",
+      "toId": "n25",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "fromId": "n23",
+      "toId": "n26",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "fromId": "n23",
+      "toId": "n27",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "fromId": "n23",
+      "toId": "n28",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "fromId": "n23",
+      "toId": "n29",
+      "type": "",
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 25,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  }
+}
