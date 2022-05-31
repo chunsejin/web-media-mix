@@ -1,0 +1,633 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": -161.37509444516405,
+        "y": -1.3299998299964102
+      },
+      "caption": "수요일",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": -199.35036349078797,
+        "y": 133.63550311000884
+      },
+      "caption": "완결",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 상태"
+      },
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": -66.44681483698335,
+        "y": -119.25144405042755
+      },
+      "caption": "유료",
+      "labels": [
+        "유/뮤료"
+      ],
+      "properties": {
+        "가격": "회당 200원"
+      },
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 120.71883557623191,
+        "y": 150.86812830426504
+      },
+      "caption": "사내맞선",
+      "labels": [
+        "웹툰"
+      ],
+      "properties": {
+        "소개": "로맨틱 코미디",
+        "평점": "",
+        "조회수": "2882.6만",
+        "제작사": "크로스픽쳐스",
+        "회차수": "111",
+        "독자수": "230만명",
+        "연령가": "15세 이용가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": -199.35036349078797,
+        "y": 263.8977809575404
+      },
+      "caption": "주 1회",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 주기"
+      },
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": -161.37509444516405,
+        "y": 386.4456214085819
+      },
+      "caption": "2019.12.25 ~ 2020.12.25",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재 기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 69.51268764325822,
+        "y": -178.13922053600723
+      },
+      "caption": "로맨스,오피스물",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": -48.65896759181402,
+        "y": 473.95159824720344
+      },
+      "caption": "카카오페이지",
+      "labels": [
+        "연재"
+      ],
+      "properties": {
+        "연재 유형": "연재처"
+      },
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 204.2302658083808,
+        "y": -178.13922053600723
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 326.2800459278974,
+        "y": -119.25144405042755
+      },
+      "caption": "한국",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 424.12569832450697,
+        "y": -1.3299998299964102
+      },
+      "caption": "신하리",
+      "labels": [
+        "등장인물 이름"
+      ],
+      "properties": {
+        "나이": "",
+        "직업": "성운 기업 직원",
+        "역할": "주인공",
+        "성별": "여",
+        "성격": "적극적"
+      },
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 424.12569832450697,
+        "y": 277.1212062902425
+      },
+      "caption": "NARAK",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "그림작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 459.7218314320768,
+        "y": 133.63550311000884
+      },
+      "caption": "들깨",
+      "labels": [
+        "작가"
+      ],
+      "properties": {
+        "작가 유형": "글작가"
+      },
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 459.7218314320768,
+        "y": 925.7570883271172
+      },
+      "caption": "사내맞선",
+      "labels": [
+        "드라마"
+      ],
+      "properties": {
+        "소개": "얼굴 천재 능력남 CEO와 정체를 속인 맞선녀 직원의 스릴 가득 '퇴사 방지' 오피스 로맨스",
+        "원작작가": "해화",
+        "시청등급": "15세 이상 ",
+        "회차수": "16",
+        "시청률": "11.6%",
+        "평점": "",
+        "배급사": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 606.147062079449,
+        "y": 607.4656691559219
+      },
+      "caption": "현대",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "시대"
+      },
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 799.3255437610369,
+        "y": 1011.8912526322207
+      },
+      "caption": "김세정",
+      "labels": [
+        "출연진"
+      ],
+      "properties": {
+        "배역": "신하리"
+      },
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 738.5892913055625,
+        "y": 1137.8483788410363
+      },
+      "caption": "사랑인가봐",
+      "labels": [
+        "OST"
+      ],
+      "properties": {
+        "가수": "멜로망스",
+        "작곡가": "멜로망스",
+        "발매일": "2022.2.18"
+      },
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 799.3255437610369,
+        "y": 839.6229240220136
+      },
+      "caption": "박선호",
+      "labels": [
+        "제작진"
+      ],
+      "properties": {
+        "담당": ""
+      },
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 729.0362965085235,
+        "y": 701.6600232219778
+      },
+      "caption": "한국",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "배경"
+      },
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 459.7218314320768,
+        "y": 607.4656691559219
+      },
+      "caption": "로맨스, 판타지",
+      "labels": [
+        "키워드"
+      ],
+      "properties": {
+        "키워드 유형": "장르"
+      },
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 230.131396725747,
+        "y": 779.1595104196832
+      },
+      "caption": "2022.2.28 ~ 2022.4.5",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송유형": "기간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 204.2302658083808,
+        "y": 925.7570883271172
+      },
+      "caption": "월요일, 화요일",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "요일"
+      },
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 253.09770240387257,
+        "y": 1076.4396590636393
+      },
+      "caption": "10시 ~ 11시 10분",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "시간"
+      },
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": 326.2800459278974,
+        "y": 1215.8257813869207
+      },
+      "caption": "완결",
+      "labels": [
+        "방송"
+      ],
+      "properties": {
+        "방송 유형": "상태"
+      },
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n4",
+      "toId": "n2",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n4",
+      "toId": "n0",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n4",
+      "toId": "n1",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "fromId": "n4",
+      "toId": "n5",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n4",
+      "toId": "n6",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n4",
+      "toId": "n8",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "fromId": "n4",
+      "toId": "n7",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "fromId": "n4",
+      "toId": "n9",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "fromId": "n4",
+      "toId": "n11",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "fromId": "n4",
+      "toId": "n12",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "fromId": "n4",
+      "toId": "n15",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "fromId": "n4",
+      "toId": "n14",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n4",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n15",
+      "fromId": "n16",
+      "toId": "n4",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n16",
+      "fromId": "n16",
+      "toId": "n23",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n16",
+      "toId": "n24",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n16",
+      "toId": "n25",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n16",
+      "toId": "n26",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "fromId": "n16",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n16",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n16",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "fromId": "n16",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "fromId": "n16",
+      "toId": "n18",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "fromId": "n16",
+      "toId": "n19",
+      "type": "",
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  }
+}
