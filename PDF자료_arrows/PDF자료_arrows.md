@@ -61,7 +61,8 @@ https://drive.google.com/file/d/17X-8BmjjvgHodqZy2Cw3wBSL2S4UriTd/view?usp=shari
 <summary>웹소설 -> 드라마</summary>
 <div markdown="1">       
 웹소설 - 드라마 txt파일 다운
-[WebNovel-drama.txt](https://github.com/chunsejin/web-media-mix/files/8465291/WebNovel-Webtoon.txt)
+[WebNovel-Drama.txt](https://github.com/chunsejin/web-media-mix/files/8802088/WebNovel-Drama.txt)
+
   
 웹소설 - 드라마 arrows.app 공유
 https://arrows.app/#/googledrive/ids=1XKhbyJwf0B5RcyZTLbrHPDnwrNiwh8CI
